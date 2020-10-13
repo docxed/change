@@ -36,10 +36,6 @@
         .indexhead:hover {
             color: #000000;
         }
-
-        .carousel-item img {
-            height: 500px;
-        }
     </style>
 </head>
 
@@ -121,7 +117,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="./home/1.jpg" class="d-block w-100 img-fluid" alt="..." height="400">
+                    <img src="./home/1.jpg" class="d-block w-100 img-fluid" alt="..." height="300">
                     <div class="carousel-caption d-none d-md-block">
                         <h3><span class="badge badge-danger">ความพยายามครั้งนี้ไม่สูญเปล่า...ขอบคุณ แล้วพบกันใหม่
                                 </badge>
@@ -129,7 +125,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./home/2.jpg" class="d-block w-100 img-fluid" alt="..." height="400">
+                    <img src="./home/2.jpg" class="d-block w-100 img-fluid" alt="..." height="300">
                     <div class="carousel-caption d-none d-md-block">
                         <h3><span
                                 class="badge badge-danger">รณรงค์สิทธิในอัตลักษณ์ทางเพศและการคุ้มครองคนข้ามเพศในโลกของการทำงาน<br>
@@ -138,7 +134,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./home/3.jpg" class="d-block w-100 img-fluid" alt="..." height="400">
+                    <img src="./home/3.jpg" class="d-block w-100 img-fluid" alt="..." height="300">
                     <div class="carousel-caption d-none d-md-block">
                         <h3><span class="badge badge-danger">คืนภาพคุณสมเด็จ วิรุฬหผล วีรชน 14 ตุลาคม 2516</badge>
                         </h3>
@@ -165,36 +161,39 @@
         <br>
         <div class="container">
             <div class="row">
-                <div class="col">
+                <div class="col-lg-3 col-md-3 col-sm-6">
                     <p class="text-secondary">รู้จักเรา</p>
                     <p><a href="#" class="navactive">เกี่ยวกับ Change.org</a></p>
                     <p><a href="#" class="navactive">ผลการเปลี่ยนแปลง</a></p>
                     <p><a href="#" class="navactive">ร่วมงานกับเรา</a></p>
                     <p><a href="#" class="navactive">ทีมงาน</a></p>
                 </div>
-                <div class="col">
+                <div class="col-lg-3 col-md-3 col-sm-6">
                     <p class="text-secondary">ชุมชนบน CHANGE.ORG</p>
                     <p><a href="#" class="navactive">บล็อก</a></p>
                 </div>
-                <div class="col">
+                <div class="col-lg-3 col-md-3 col-sm-6">
                     <p class="text-secondary">ความช่วยเหลือ</p>
                     <p><a href="#" class="navactive">ศุนย์ช่วยเหลือ</a></p>
                     <p><a href="#" class="navactive">คำแนะนำ</a></p>
                     <p><a href="#" class="navactive">นโยบายสิทธิส่วนบุคคล</a></p>
                     <p><a href="#" class="navactive">นโยบาย</a></p>
                 </div>
-                <div class="col">
+                <div class="col-lg-3 col-md-3 col-sm-6">
                     <p class="text-secondary">ติดตาม CHANGE.ORG</p>
                     <p><a href="#" class="navactive">Twitter</a></p>
                     <p><a href="#" class="navactive">Facebook</a></p>
                 </div>
             </div>
             <hr>
-            <div class="d-flex justify-content-between">
-                <div><b>© 2020, Change.org, PBC</b> <a href="#" class="navactive">จดทะเบียนประเภท B Corporation</a><br>
-                    This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+            <div class="d-flex justify-content-between row">
+                <div class="col-sm-12 col-lg-9"><b>© 2020, Change.org, PBC</b> <a href="#"
+                        class="navactive">จดทะเบียนประเภท B Corporation</a><br>
+                    This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy"
+                        style="color: #ff0000; text-decoration: underline;">Privacy Policy</a> and <a
+                        href="https://policies.google.com/terms" style="color: #ff0000; text-decoration: underline;">Terms of Service</a> apply.<br><br>
                 </div>
-                <div>
+                <div class="col-sm-12 col-lg-3">
                     <select class="form-control">
                         <option value="de-DE">Deutsch</option>
                         <option value="en-AU">English (Australia)</option>
@@ -218,6 +217,7 @@
                 </div>
             </div>
             <br>
+        </div>
     </footer>
 
     <script src="https://kit.fontawesome.com/e581f04cd1.js" crossorigin="anonymous"></script>
