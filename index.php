@@ -24,7 +24,8 @@
             <?php
         }
 
-        ?>.navactive {
+        ?>
+        .navactive {
             color: #000000;
         }
 
@@ -3525,6 +3526,87 @@
             </div>
         </div>
     </div>
+    <?php
+    }
+    ?>
+
+    <?php
+    if (isset($_GET['p'])  && $_GET['p'] == 'profile'){
+    ?>
+    <div class="row text-center" style="position: relative; background-image: url('./profile/bg.png'); background-repeat: repeat-x; height: 300px; border-bottom: 1px #ccc solid;">
+        <div style="position: absolute;top: 50%; left: 50%; transform: translate(-50%, -50%);">
+            <br><br>
+            <img src="./avartar/me.jpg" class="rounded-circle img-fluid" width="100" height="100" style="border: 1px #ccc solid; "><br>
+            <p class="h4"><strong>akira fosterz</strong></p>
+            <p class="text-secondary" style="font-size: small;"><span style="color: #ff0000;"><i class="fas fa-flag"></i></span> เป็นผู้ใช้งานของ Change.org ตั้งแต่ 9 ต.ค. 2018</p>
+            <p>ขอบคุณที่เป็นผู้ใช้งานเว็บไซต์ที่แอคทีฟมา<br>
+            โดยตลอด พวกเราจะร่วมกันการสร้างความ<br>
+            เปลี่ยนแปลงให้เกิดขึ้นในสังคม</p>
+        </div>
+    </div>
+    <div class="container">
+        <div style="margin: 25px 200px 25px 200px;">
+            <p class="h4"><span style="color: #ff0000;"><i class="far fa-user-circle"></i></span><strong> บัญชีและการตั้งค่า</strong></p>
+            <p>จัดการบัญชีส่วนบุคคล เปลี่ยนวิธีการชำระเงิน และจัดการข้อมูลอื่นๆ ที่เกี่ยวข้อง</p>
+            <br>
+                <a href="?p=account" class="navactive">
+                <div class="d-flex">
+                    ข้อมูลทั่วไป
+                    <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                </div>
+                <hr>
+                </a>
+                <a href="?p=password" class="navactive">
+                    <div class="d-flex">
+                        เปลี่ยนรหัสผ่าน
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+                <a href="?p=mail" class="navactive">
+                    <div class="d-flex">
+                        จัดการที่อยู่อีเมล์
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+                <a href="?p=donate" class="navactive">
+                    <div class="d-flex">
+                        สนับสนุนการทำงานของ Change.org
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+                <a href="?p=del" class="navactive">
+                    <div class="d-flex">
+                        ปิดบัญชี Change.org
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+
+                <div style="border-radius: 10px; background-color: #f6f4f6; padding: 25px 175px 25px 175px;">
+                    <div class="row">
+                        <div class="col-3"><img src="./profile/pri.png" class="img-fluid" alt=""></div>
+                        <div class="col-9 m-auto"><strong class="h4">ความเป็นส่วนตัวและการปกป้องข้อมูล</strong></div>
+                    </div>
+                    <br>
+                    <p>Change.org เคารพและปกป้องความเป็นส่วนตัวของคุณ คุณสามารถตั้งค่าอีเมลได้ตามรายละเอียดด้านล่าง</p>
+                    <a href="?p=privacy" style="text-decoration: none;"><button class="btn btn-block" style="border-radius: 5px; border: 2px #ccc solid; padding: 8px;"><strong>ตั้งค่า</strong></button></a>
+                </div>
+        </div>
+    </div>
+    <?php
+    }
+    ?>
+
+    <?php
+    if (isset($_GET['p'])  && $_GET['p'] == 'account'){
+    ?>
+    <br><br>
+    <p class="text-center h1 text-center"><strong>แก้ไขข้อมูลโปรไฟล์</strong></p><br>
+    <p class=" text-center"><img src="./avartar/me.jpg" class="rounded-circle img-fluid" alt="" height="100" width="100"></p>
+    <p class="text-center"><a href="" class="indexhead">อัปโหลดรูปภาพ</a></p>
     <?php
     }
     ?>
