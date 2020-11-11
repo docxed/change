@@ -145,10 +145,13 @@
     <div class="container">
         <div class="text-center">
             <p class="h1">เว็บไซต์เพื่อสร้างการเปลี่ยนแปลง</p><br>
-            <p class="h4">408,044,416 จำนวนผู้ใช้ทั่วโลก <a href="?p=impact"
+            <p class="h4">408,044,416 จำนวนผู้ใช้ทั่วโลก <a href="?p=petition"
                     class="indexhead">คลิกดูเรื่องราวรณรงค์ที่สำเร็จทั้งหมด</a></p>
+            <br>
+            <p><a href="?p=create"><button class="btn btn-lg "
+                        style="background-color: #ff0000; color: #ffffff;">เริ่มเรื่องรณรงค์</button></a></p>
         </div>
-        <br><br><br><br><br><br>
+        <br><br><br><br>
 
 
         <div id="carouselExampleCaptions" class="carousel slide m-auto" data-ride="carousel">
@@ -3871,12 +3874,15 @@
                         </p>
                         <p style="font-size: 22px;">
                             <strong>เครือข่ายภาคประชาสังคมมีความห่วงใยต่อประเด็นดังกล่าวที่อาจส่งผลกระทบอย่างมากต่อการแก้ปัญหาขยะภายในประเทศ
-                            จึงได้ออกแถลงการณ์เพื่อนำเสนอข้อคิดเห็นและข้อเรียกร้องต่อกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมในฐานะประธานคณะอนุกรรมการบริหารจัดการขยะพลาสติกและขยะอิเล็กทรอนิกส์
-                            ให้ “ยืนยันมติเดิม” ของคณะอนุกรรมการฯ เมื่อปี 2561 ที่
-                            “กำหนดให้ประเทศไทยยกเลิกการนำเข้าขยะหรือเศษพลาสติกและซากอิเล็กทรอนิกส์ 100% ภายในปี 2563”</strong>
+                                จึงได้ออกแถลงการณ์เพื่อนำเสนอข้อคิดเห็นและข้อเรียกร้องต่อกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมในฐานะประธานคณะอนุกรรมการบริหารจัดการขยะพลาสติกและขยะอิเล็กทรอนิกส์
+                                ให้ “ยืนยันมติเดิม” ของคณะอนุกรรมการฯ เมื่อปี 2561 ที่
+                                “กำหนดให้ประเทศไทยยกเลิกการนำเข้าขยะหรือเศษพลาสติกและซากอิเล็กทรอนิกส์ 100% ภายในปี
+                                2563”</strong>
                         </p>
                         <p style="font-size: 22px;">
-                            ขอประชาชนที่เห็นด้วย <a href="#" class="indexhead">ร่วมลงชื่อสนับสนุนในแคมเปญนี้</a>เพื่อส่งเสียงไปยังนายวราวุธ ศิลปอาชา ในฐานะเจ้ากระทรวงฯ ให้พิจารณาเรื่องนี้โดยเร่งด่วน!
+                            ขอประชาชนที่เห็นด้วย <a href="#"
+                                class="indexhead">ร่วมลงชื่อสนับสนุนในแคมเปญนี้</a>เพื่อส่งเสียงไปยังนายวราวุธ ศิลปอาชา
+                            ในฐานะเจ้ากระทรวงฯ ให้พิจารณาเรื่องนี้โดยเร่งด่วน!
                         </p>
                         <p style="font-size: 22px;">
                             <a href="#" class="indexhead">อ่านแถลงการณ์ฉบับเต็มได้ที่นี่</a>
@@ -3890,19 +3896,23 @@
                                 <br>
                                 <li>มูลนิธินิติธรรมสิ่งแวดล้อม</li><br>
                                 <li>สมาคมซาเล้งและร้านรับซื้อของเก่า</li><br>
-                                <li>แผนงานขับเคลื่อนการปฏิรูประบบการจัดการขยะเพื่อสุขภาวะและสิ่งแวดล้อมที่ยั่งยืน สสส.</li><br>
+                                <li>แผนงานขับเคลื่อนการปฏิรูประบบการจัดการขยะเพื่อสุขภาวะและสิ่งแวดล้อมที่ยั่งยืน สสส.
+                                </li><br>
                                 <li>สถาบันวิจัยสภาวะแวดล้อม จุฬาลงกรณ์มหาวิทยาลัย</li><br>
                                 <li>ดร.เพชร มโนปวิตร เจ้าของเพจ “Rereef”</li><br>
                                 <li>นายเปรม พฤกษ์ทยานนท์ เจ้าของเพจ “ลุงซาเล้งกับขยะที่หายไป”</li><br>
                                 <li>กลุ่มศึกษาการพัฒนาระเบียงเศรษฐกิจพิเศษภาคตะวันออก (EEC Watch) </li><br>
                                 <li>กลุ่มคนรักษ์ต้นน้ำจังหวัดราชบุรี ต.น้ำพุ อ.เมือง จ.ราชบุรี</li><br>
                                 <li>กลุ่มคนคลองบางป่า ต.บางป่า อ.เมือง จ.ราชบุรี</li><br>
-                                <li>กลุ่มเรารักษ์ท่าถ่าน-บ้านซ่อง ต.ท่าถ่าน และ ต.บ้านซ่อง อ.พนมสารคาม จ.ฉะเชิงเทรา</li><br>
+                                <li>กลุ่มเรารักษ์ท่าถ่าน-บ้านซ่อง ต.ท่าถ่าน และ ต.บ้านซ่อง อ.พนมสารคาม จ.ฉะเชิงเทรา</li>
+                                <br>
                                 <li>กลุ่มเรารักษ์พนม อ.พนมสารคาม จ.ฉะเชิงเทรา</li><br>
                                 <li>เครือข่ายเพื่อนตะวันออก วาระเปลี่ยนตะวันออก</li><br>
                                 <li>เครือข่ายปกป้องผืนป่าตะวันออก</li><br>
                                 <li>เครือข่ายประชาชนศึกษาและติดตามปัญหาขยะ </li><br>
-                                <li>เครือข่ายอาสาสมัครพิทักษ์ทรัพยากรธรรมชาติและสิ่งแวดล้อมหมู่บ้าน (ทสม.) จังหวัดฉะเชิงเทรา /ชลบุรี / ระยอง / ปราจีนบุรี / สระแก้ว / นครนายก / ราชบุรี / เพชรบุรี</li><br>
+                                <li>เครือข่ายอาสาสมัครพิทักษ์ทรัพยากรธรรมชาติและสิ่งแวดล้อมหมู่บ้าน (ทสม.)
+                                    จังหวัดฉะเชิงเทรา /ชลบุรี / ระยอง / ปราจีนบุรี / สระแก้ว / นครนายก / ราชบุรี /
+                                    เพชรบุรี</li><br>
                                 <li>สมัชชาแปดริ้วเมืองยั่งยืน</li><br>
                                 <li>องค์กรชุมชนตําบลหนองชุมพลเหนือ ต.หนองชุมพลเหนือ อ.เขาย้อย จ.เพชรบุรี</li><br>
                                 <li>มูลนิธิศูนย์คุ้มครองสิทธิด้านเอดส์ (Foundation for AIDS Right)</li><br>
@@ -3947,7 +3957,7 @@
                                 <li>Refill Station</li><br>
                                 <li>Little Big Green</li><br>
                                 <li>Climate Strike Thailand</li><br>
-                            
+
                             </ul>
                         </ul>
                         <br>
@@ -4007,8 +4017,7 @@
                                 <img src="./avartar/2.jpg" alt="" class="img-fluid rounded-circle">
                             </div>
                             <div class="col-11">
-                                <p><strong>nik wanut</strong><span class="text-secondary"
-                                        style="font-size: small;"> 2
+                                <p><strong>nik wanut</strong><span class="text-secondary" style="font-size: small;"> 2
                                         เดือนผ่านมา</span></p>
                                 <p>ไม่โอเคครับ
                                 </p>
@@ -4033,15 +4042,19 @@
 
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12">
-                        <p><span style="color: red;"><i class="fas fa-flag fa-lg"></i></span> <strong class="h3">ชัยชนะ</strong></p>
+                        <p><span style="color: red;"><i class="fas fa-flag fa-lg"></i></span> <strong
+                                class="h3">ชัยชนะ</strong></p>
                         <p class="text-secondary">การรณรงค์สำเร็จตามเป้าหมาย โดยมีผู้สนับสนุนจำนวน25,413คน</p>
                         <div style="border: 1px #ccc solid; border-radius: 5px; padding: 10px;">
-                            <img src="./petition/s7.jpg" width="55" height="35" alt=""> <span style="font-size: small;" class="text-secondary">#คัดค้านนำเข้าเศษพลาสติก</span>
+                            <img src="./petition/s7.jpg" width="55" height="35" alt=""> <span style="font-size: small;"
+                                class="text-secondary">#คัดค้านนำเข้าเศษพลาสติก</span>
                         </div>
                         <br>
-                        <button class="btn btn-block text-light" style="background-color: #37639e; padding: 10px;"><i class="fab fa-facebook-square"></i> แชร์แคมเปญ</button>
+                        <button class="btn btn-block text-light" style="background-color: #37639e; padding: 10px;"><i
+                                class="fab fa-facebook-square"></i> แชร์แคมเปญ</button>
                         <br>
-                        <p><span style="color: #37639e;"><i class="fab fa-facebook-square"></i></span> ส่งข้อความทาง Facebook</p>
+                        <p><span style="color: #37639e;"><i class="fab fa-facebook-square"></i></span> ส่งข้อความทาง
+                            Facebook</p>
                         <p><span style=""><i class="far fa-envelope"></i></span> ส่งอีเมล์ให้เพื่อน</p>
                         <p><span class="text-info"><i class="fab fa-twitter"></i></span> แชร์ผ่านทวิตเตอร์</p>
                         <p><span style=""><i class="fas fa-link"></i></span> คัดลอกลิ้งค์</p>
@@ -4104,7 +4117,8 @@
                                 <span class="text-secondary" style="font-size: small;"> 1 วันที่ผ่านมา</span><br>
                             </div>
                         </div>
-                        <p>ไม่อยากให้ไทยเป็นเหมือนกันประเทศจีน ใครว่าสภาพจีนเป็นอย่างไร แนะนำให้ดูเรื่อง Plastic China ค่ะ</p>
+                        <p>ไม่อยากให้ไทยเป็นเหมือนกันประเทศจีน ใครว่าสภาพจีนเป็นอย่างไร แนะนำให้ดูเรื่อง Plastic China
+                            ค่ะ</p>
                         <p class="" id="likes3"><span onclick="likes(3)" class="text-secondary"><i
                                     class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
                         <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
@@ -4140,7 +4154,8 @@
                                 <span class="text-secondary" style="font-size: small;"> 2 วันที่ผ่านมา</span><br>
                             </div>
                         </div>
-                        <p>การรีไซเคิลขยะพลาสติกส่งผลกระทบต่อสิ่งแวดล้อมอย่างรุนแรง  ยิ่งทำมากก็มีผลมาก ดังนั้นควรรีไซเคิลเฉพาะขยะภายในประเทศเท่านั้น ไม่ควรนำเข้าจากต่างประเทศมาเพิ่มขึ้นอีก</p>
+                        <p>การรีไซเคิลขยะพลาสติกส่งผลกระทบต่อสิ่งแวดล้อมอย่างรุนแรง ยิ่งทำมากก็มีผลมาก
+                            ดังนั้นควรรีไซเคิลเฉพาะขยะภายในประเทศเท่านั้น ไม่ควรนำเข้าจากต่างประเทศมาเพิ่มขึ้นอีก</p>
                         <p class="" id="likes5"><span onclick="likes(5)" class="text-secondary"><i
                                     class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
                         <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
@@ -4421,6 +4436,1249 @@
                     <p><strong>ศุภณัฏฐ์​ ศิริพงศ์ปรีดา</strong><span class="text-secondary" style="font-size: small;"> 2
                             วันที่ผ่านมา</span></p>
                     <p>โรงเรียนหรือสถาบันการศึกษาทุกแห่ง ต้องมีกฎ ระเบียบ อบรมครูอาจารย์ และรักษาคำมั่นว่าจะไม่มีเหตุการณ์แบบนี้อีก ถ้ามีเกิดขึ้นอีกบทลงโทษควรหนักกว่านี้ อย่าให้ผู้คนขาดความเชื่อมั่นในสถาบันการศึกษาของตัวเอง และทำให้สถาบันการศึกษาเสียหายทั้งหมด</p>
+                    <p class="text-secondary">
+                                    <span id="like4"><span onclick="like(4)"><i
+                                            class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id=""
+                                            style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                    <hr>
+                </div>
+            </div>
+            `;
+            document.getElementById('btnCom').innerHTML = '';
+        }
+    </script>
+
+    <?php
+        }
+    ?>
+
+    <?php
+        if (isset($_GET['p'])  && isset($_GET['petition']) && $_GET['petition'] == 7){
+    ?>
+    <div class="row" style="background-color: #fff9df; padding: 10px; border-bottom: 1px solid #ffe9ab;">
+        <div class="container">
+            Change.org ขอเป็นพื้นที่ให้ทุกคนส่งเสียงกันได้ดังๆ เพื่อช่วยให้สังคมฝ่าฟันสถานการณ์ Covid-19 ไปได้ด้วยกัน
+            โปรดติดตามข้อมูลเพื่อดูแลตัวคุณเองและคนรอบข้างได้ที่<a href="http://ddc.moph.go.th/viralpneumonia/intro.php"
+                class="indexhead">กรมควบคุมโรค</a> หรือโทรสายด่วน 1422
+        </div>
+    </div>
+    <br>
+    <div class="container">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <a class="nav-link active tabactive" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                    aria-controls="home" aria-selected="true">รายละเอียดเกี่ยวกับแคมเปญ</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link tabactive" id="profile-tab" data-toggle="tab" href="#comment" role="tab"
+                    aria-controls="profile" aria-selected="false">ความคิดเห็น</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link tabactive" id="contact-tab" data-toggle="tab" href="#update" role="tab"
+                    aria-controls="contact" aria-selected="false">อัพเดท</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                <br><br>
+                <p class="h2 text-center">
+                    <strong>ลงชื่อขอให้ Cute Press & Oriental Princess
+                        แสดงความรับผิดชอบกรณีไม่รับคนข้ามเพศเข้าทำงาน</strong></p>
+                <br><br>
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <p><img src="./petition/s8.jpg" alt="" width="800" height="450" class="img-fluid"></p>
+                        <p class="text-secondary" style="font-size: 14px;"><img src="./avartar/nada.jpg" alt=""
+                                class="img-fluid mb-0 rounded-circle" width="25" height="2">&nbsp;&nbsp;<strong><u>Nada
+                                    Chaiyajit</u>
+                                ได้สร้างแคมเปญรณรงค์นี้ร้องเรียน <u>บริษัทในเครือ SSUP Beauty and Wellness</u></strong>
+                        </p>
+                        <p style="font-size: 22px;">
+                            Update 2 กันยา: ขอบคุณทาง SSUP และทุมท่านที่ร่วมลงชื่อสนับสนุนการ<a href="#"
+                                class="indexhead">รณรงค์สิทธิในอัตลักษณ์ทางเพศและการคุ้มครองคนข้ามเพศในโลกของการทำงาน
+                                #ให้มันจบที่จูน ปิดฉากอย่างงดงาม [อ่านต่อได้ที่นี่ค่ะ]</a>
+                        </p>
+                        <p style="font-size: 22px;">
+                            ----
+                            <br>
+                        </p>
+                        <p style="font-size: 22px;">
+                            น้องจูน นิยามตัวเองว่าเป็นผู้หญิงข้ามเพศ เธอไม่ปฏิเสธว่าหากใครจะเรียกขานเธอว่ากะเทย
+                            หากไม่ได้เรียกขานกันด้วยความเย้ยหยันและแสดงเคารพกันและกันก็ไม่เป็นไร
+                            แต่ที่ยอมไม่ได้คือ<strong>เธอถูกเลือกปฏิบัติในการสมัครงานตำแหน่งพนักงานขายเครื่องสำอางค์แบรนด์
+                                Cute
+                                Press และ Oriental Princess ในเครือ SSUP Beauty and Wellness บริษัทด้านสุขภาพ ความงาม
+                                และผิวพรรณชั้นนำแถวหน้าและเป็นตำนานของเมืองไทย</strong>
+                        </p>
+                        <p style="font-size: 22px;">
+                            จูนเล่าว่าเธอเคยประกอบอาชีพสายงานด้านอุตสาหกรรมการท่องเที่ยว
+                            หนึ่งในพนักงานต้อนรับและดูแลนักท่องเที่ยวชาวจีนบนเรือสำราญ
+                            เธอคือหนึ่งในสาวงามผู้มีใจรักการแสดงและงานบริการลูกค้า
+                            เมื่อมีการปิดประเทศจากภาวะวิกฤตไวรัสระบาด
+                            บริษัทมีความจำเป็นพักการจ้างงานนับตั้งแต่เดือนกุมภาพันธุ์ที่ผ่านมา ส่งผลกระทบทางตรงต่อเธอ
+                            ชีวิตของเธอเป็นคนปากกัดตีนถีบ ไม่ใช่แค่ตัวคนเดียวแต่เธอเป็นกำลังหลักในการหาเลี้ยงครอบครัว
+                            เมื่อไม่มีทัวร์ ไม่มีลูกค้า เท่ากับไม่มีรายได้
+                        </p>
+                        <p style="font-size: 22px;">
+                            เมื่อวันที่พฤหัสบดีที่ 20 สิงหาคมที่ผ่านมา
+                            จูนตัดสินใจหางานใหม่และพบกับประกาศรับสมัครพนักงานขายเครื่องสำอางบริษัทในเครือ SSUP ดังกล่าว
+                            จูนจึงรีบเตรียมเอกสารและทำ Resume เพราะเธอเชื่อว่าประสบการณ์ด้านบริการของเธอกว่า 7 ปี
+                            ยังไม่นับทักษะด้านการแต่งหน้า ความสวยความงาม พร้อมวุฒิการศึกษาปริญญาด้านนิเทศศาสตร์
+                            บวกกับรูปร่างหน้าตา ผิวพรรณ ที่เรียกได้ว่าพร้อมและเหมาะสม
+                            เธอเชื่อว่าคืออีกจุดเด่นสำคัญที่จะทำให้บริษัทได้รับประโยชน์จากยอดขายและทำกำไรได้เป็นอย่างดี
+                        </p>
+                        <p style="font-size: 22px;">
+                            เมื่อจัดเตรียมเอกสารประกอบการสมัครเสร็จ จูนติดต่อบริษัทไปยังไลน์สำหรับ recruitment ของ SSUP
+                            โดยเฉพาะ<strong>เพื่อส่งเอกสารและแสดงความประสงค์ที่จะสมัครงาน แต่สิ่งที่เธอรับกลับมาคือ
+                                #ขอโทษค่ะรับผู้หญิงค่ะ</strong> จูนบอกว่ารู้สึกเหมือนถูกตบหน้าอย่างแรงมาก เธอจุกมาก
+                            น้ำตาไหล
+                            เพราะไม่เคยคิดมาก่อนเลยว่า ประโยคปฏิเสธสั้น ๆ ประโยคเดียวนี้
+                            ทำให้เธอกลับมาตั้งคำถามกับตัวเองว่า
+                            #ไม่มีความเป็นผู้หญิงพอที่จะปฏิบัติหน้าที่ในตำแหน่งงานนี้ได้
+                            <strong>ทำไมแบรนด์ผลิตภัณฑ์ความงาม
+                                เครื่องสำอางระดับโลกแบรนด์ หรือ counter brand ก็มีพนักงานเป็นผู้หญิงข้ามเพศมากมาย
+                                แต่ทำไมบริษัท SSUP
+                                ถึงไม่ยอมรับผู้หญิงข้ามเพศเข้ามาทำงานเป็นพนักงานขายเครื่องสำอางค์ของบริษัท</strong>
+                        <p style="font-size: 22px;">
+                            การปฏิเสธการโอกาสในการสมัครงานต่อจูน ไม่ใช่แค่การตบหน้าจูนเดียว
+                            แต่มันคือการตบหน้ากะเทยทั้งประเทศ
+                            สำหรับนาดาทั้งในฐานะคนทำงานด้านสิทธิมนุษยชนของบุคคลผู้มีความหลากหลายทางเพศ
+                            และเคยเป็นสมาชิกอุดหนุนสินค้าผลิตภัณฑ์ของทั้งสองแบรนด์นี้ บอกได้คำเดียวว่า <strong>#เจ็บปวด
+                                ยิ่งไปกว่านั้นหากบริษัท SSUP มีนโยบายกีดกันไม่รับผู้หญิงข้ามเพศ สาวประเภทสอง หรือ กะเทย
+                                เป็นพนักงานขายเครื่องสำอางจริง นั่นหมายความว่า บริษัทมีความเชื่อ หรือ อคติทางเพศ
+                                เกี่ยวกับภาพลักษณ์ของผู้หญิงข้ามเพศ ใช่หรือไม่?</strong> SSUP
+                            ไม่ทราบเลยหรือว่าการเลือกปฏิบัติด้วยเหตุแห่งเพศ เป็นสิ่งที่ผิดกฎหมายในบ้านนี้เมืองนี้เพราะ
+                        </p>
+                        <ul>
+                            <ul style="font-size: 22px;">
+                                <li>ประเทศไทยมีรัฐธรรมนูญที่คุ้มครองไม่ให้มีการเลือกปฏิบัติต่อบุคคล</li>
+                                <br>
+                                <li>ประเทศไทยมีการบังคับใช้พระราชบัญญัติความเท่าเทียมระหว่างเพศ พ.ศ.2558</li><br>
+                                <li>ประเทศไทยประกาศใช้แผนปฏิบัติการแห่งชาติว่าด้วยธุรกิจและสิทธิมนุษยชน</li><br>
+                                <li>ประเทศไทยเป็นภาคีตามอนุสัญญาขององค์การแรงงานระหว่างประเทศ ILO ฉบับที่ 111
+                                    ว่าด้วยการห้ามเลือกปฏิบัติในจ้างแรงงาน
+                                </li><br>
+                                <li>ประเทศไทยเป็นภาคีตามกติกาสากลว่าด้วยสิทธิพลเมืองสิทธิทางการเมือง</li><br>
+                                <li>ประเทศไทยเป็นภาคีตามกติกาสากลว่าด้วยสิทธิทางเศรษฐกิจ สังคม และ วัฒนธรรม</li><br>
+                                <li>ประเทศไทยเป็นภาคีตามอนุสัญญาว่าด้วยการขจัดการเลือกปฏิบัติต่อสตรีทุกรูปแบบ</li><br>
+                            </ul>
+                        </ul>
+                        <p style="font-size: 22px;">
+                            บริษัทประกาศเจตนารมณ์ถึงวัฒนธรรมองค์กรของตนเองว่า “Happy Customers, Happy Employees and
+                            Happy Society are the three meaningful goals and relationship that drive SSUP people and
+                            Culture” แปลยังไงก็ได้ความว่า “ลูกค้าเป็นสุข, พนักงานเป็นสุข และสังคมเป็นสุข
+                            คือเป้าหมายหลักสามประการที่ขับเคลื่อนและเชื่อมร้อยความสัมพันธ์และวัฒนธรรมองค์กรของ SSUP
+                            ไว้ด้วยกัน” แต่มาวันนี้
+                            น้ำตาของน้องจูนต่อคำปฏิเสธโอกาสแค่เพียงจะยื่นใบสมัครงานด้วยเหตุผลที่ว่า #รับแต่ผู้หญิง
+                            คือคำตอบสำคัญที่ทำให้บริษัท SSUP ต้องตระหนักรู้ว่า
+                            บริษัทของคุณล้มเหลวต่อเจตนารมณ์ที่คุณประกาศไว้
+                        </p>
+                        <p style="font-size: 22px;">
+                            <strong>เราจึงอยากแสดงความจริงใจต่อบริษัท SSUP
+                                ด้วยการออกมาเรียกร้องสิทธิเพื่อไม่ให้มีการเลือกปฏิบัติแก่บุคคลข้ามเพศในการเข้าทำงาน
+                                ขอทุกท่านที่เห็นด้วยร่วมลงชื่อสนับสนุนในแคมเปญนี้</strong>
+                            พลังและกำลังใจของทุกคนจะถูกส่งต่อผ่านคำร้องที่เราเตรียมมอบให้กับคณะกรรมการวินิจฉัยการเลือกปฏิบัติโดยไม่เป็นธรรมระหว่างเพศ
+                            พร้อมทั้งยื่นหนังสือต่อกระทรวงยุติธรรม กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์
+                            ในฐานะเป็นองค์กรรัฐหลักที่มีหน้าที่สร้างหลักประกันให้องค์กรภาคธุรกิจปฏิบัติตามหลักการชี้แนะขององค์กรสหประชาชาติว่าด้วยธุรกิจและสิทธิมนุษยชน
+                        </p>
+                        <br>
+                        <div class=""
+                            style="background-color: #f6f4f6; padding: 15px; border: 1px solid #ccc; border-radius: 5px;">
+                            <div class="row">
+                                <div class="col-1 m-auto text-center">
+                                    <i class="fas fa-pen-fancy fa-lg"></i>
+                                </div>
+                                <div class="col-8">
+                                    <strong>เริ่มสร้างแคมเปญรณรงค์ด้วยตัวเอง</strong><br>
+                                    เจ้าของเรื่องรณรงค์เป็นคนริเริ่มไอเดียที่หวังให้เกิดความเปลี่ยนแปลงขึ้นในสังคมของเรา
+                                    แล้วคุณอยากลองบ้างไหม?
+                                </div>
+                                <div class="col-3 text-center m-auto">
+                                    <a href="?p=create">
+                                        <div class="btn"
+                                            style="border: 2px solid #ccc; border-radius: 5px; background-color: #ffffff;">
+                                            <strong>เริ่มเรื่องรณรงค์</strong></div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <br><br>
+                        <p class="h3"><strong>อัพเดต</strong></p><br>
+                        <div class="d-flex"
+                            style="background-color: #f6f4f6; padding: 8px; border: 1px solid #ccc; border-radius: 5px; font-size: small;">
+                            <div class="">
+                                ผู้ร่วมสนับสนุน 1,500 คน
+                            </div>
+                            <div class="ml-auto">
+                                3 วันที่ผ่านมา
+                            </div>
+                        </div>
+                        <br>
+                        <div class="d-flex"
+                            style="background-color: #f6f4f6; padding: 8px; border: 1px solid #ccc; border-radius: 5px; font-size: small;">
+                            <div class="">
+                                ผู้สร้าง Nada Chaiyajit
+                            </div>
+                            <div class="ml-auto">
+                                3 เดือนที่ผ่านมา
+                            </div>
+                        </div>
+                        <br><br>
+                        <p class="h3"><strong>สาเหตุที่ร่วมลงชื่อ</strong></p><br>
+                        <div class="row">
+                            <div class="col-1 text-center">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="col-11">
+                                <p><strong>ปริญญา สายะวารานนท์</strong><span class="text-secondary"
+                                        style="font-size: small;"> 1 เดือนผ่านมา</span></p>
+                                <p>เพราะดิฉันเคยโดนปฏิเสธจากแบรนด์นี้ค่ะและมองเหยียดด้วยทั้งๆที่ความสวยของฉันมั่นใจว่าสามารถทำงานนี้ได้
+                                    และฉันเชื่อในคุณภาพของแบรนด์และใช้มาตลอด พอโดนแบบนั้นคือหมดศรัทธาจริงๆ
+                                    ไม่คิดว่ามันจะเป็นนโยบายหลักที่ปฏิเสธข้ามเพศคิดแค่ว่าเฉพาะบุคคลเฉพาะฉันที่โดน
+                                    ไม่คิดว่าจะมีคนอื่นโดนแบบฉันแต่ก็มี พอละเลิกใช้จริงๆ บายค่ะผิดหวัง</p>
+                                <p class="text-secondary">
+                                    <span id="like1"><span onclick="like(1)"><i
+                                                class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span
+                                            id="" style="font-size: small;" data-toggle="modal"
+                                            data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                                <hr>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-1 text-center">
+                                <img src="./avartar/2.jpg" alt="" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="col-11">
+                                <p><strong>วิทยา แสงอรุณ</strong><span class="text-secondary" style="font-size: small;">
+                                        2
+                                        เดือนผ่านมา</span></p>
+                                <p>ตัดสินคนที่ "ความสามารถ" ไม่ใช่ เพศสภาวะ/เพศวิถี/เพศสรีระ
+                                </p>
+                                <p class="text-secondary">
+                                    <span id="like2"><span onclick="like(2)"><i
+                                                class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span
+                                            id="" style="font-size: small;" data-toggle="modal"
+                                            data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                                <hr>
+                            </div>
+                        </div>
+                        <div id="btnCom">
+                            <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin: 8px;;"
+                                onclick="com()">
+                                <span style="font-size: small;"><strong>อ่านความคิดเห็นทั้งหมด</strong></span>
+                            </div>
+                        </div>
+
+                        <div id="com"></div>
+
+
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><span style="color: red;"><i class="fas fa-flag fa-lg"></i></span> <strong
+                                class="h3">ชัยชนะ</strong></p>
+                        <p class="text-secondary">การรณรงค์สำเร็จตามเป้าหมาย โดยมีผู้สนับสนุนจำนวน1,691คน</p>
+                        <div style="border: 1px #ccc solid; border-radius: 5px; padding: 10px;">
+                            <img src="./petition/s8.jpg" width="55" height="35" alt=""> <span style="font-size: small;"
+                                class="text-secondary">บริษัทในเครือ SSUP Beauty and Wellness… </span>
+                        </div>
+                        <br>
+                        <button class="btn btn-block text-light" style="background-color: #37639e; padding: 10px;"><i
+                                class="fab fa-facebook-square"></i> แชร์แคมเปญ</button>
+                        <br>
+                        <p><span style="color: #37639e;"><i class="fab fa-facebook-square"></i></span> ส่งข้อความทาง
+                            Facebook</p>
+                        <p><span style=""><i class="far fa-envelope"></i></span> ส่งอีเมล์ให้เพื่อน</p>
+                        <p><span class="text-info"><i class="fab fa-twitter"></i></span> แชร์ผ่านทวิตเตอร์</p>
+                        <p><span style=""><i class="fas fa-link"></i></span> คัดลอกลิ้งค์</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="tab-pane fade" id="comment" role="tabpanel" aria-labelledby="comment-tab">
+                <div class="container">
+                    <br><br>
+                    <p class="h3"><strong>สาเหตุที่ร่วมลงชื่อ</strong></p>
+                    <p>อ่านความคิดเห็นของคนอื่นๆ ที่ลงชื่อสนับสนุนแคมเปญ
+                        (ความคิดเห็นเหล่านี้เป็นกำลังสำคัญให้เจ้าของแคมเปญเดินหน้ารณรงค์เพื่อให้เกิดความเปลี่ยนแปลงต่อไป)
+                    </p>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>อัญชุลี เมธาภรณ์พงศ์</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 4 ชั่วโมงที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>การรับรองเพศสถานะทางก.ม.ในสถานที่ทำงานว่าด้วยสิทธิมนุษยชนตามมาตรฐานแรงงานไทย</p>
+                        <p class="" id="likes1"><span onclick="likes(1)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>จิรัชยา เหรียญตระกูล</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 8 ชั่วโมงที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>ไม่ควรเลือกปฏิบัติ</p>
+                        <p class="" id="likes2"><span onclick="likes(2)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>Lalada Dhirapannapara</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 1 วันที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>เป็นสาวสองเช่นเดียวกัน และรู้สึกถึงความไม่เป็นธรรมเป็นอย่างยิ่งในกรณีนี้</p>
+                        <p class="" id="likes3"><span onclick="likes(3)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>Ketsiri tanalerdpun</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 2 วันที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>ทางบริษัท มีวิธีเลือกที่จะตอบได้หลายวิธี ต้องรู้จักรักษาน้ำใจกันและกัน</p>
+                        <p class="" id="likes4"><span onclick="likes(4)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/3.jpg" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>วรนุช สุทันต์</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 2 วันที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>ทรานวูเม้นก็ถือเป็นผู้หญิง การไม่รับทรานเข้าทำงานถือเป็นการไม่เท่าเทียมกันทางเพศ</p>
+                        <p class="" id="likes5"><span onclick="likes(5)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="tab-pane fade" id="update" role="tabpanel" aria-labelledby="update-tab">
+                <div class="container">
+                    <br><br>
+                    <p class="h3"><strong>อัพเดทล่าสุด</strong></p><br>
+                    <div class="text-center m-auto" style="border: 1px solid #ccc; border-radius: 5px; padding: 50px;">
+                        ยังไม่มีอัพเดท
+                    </div>
+                </div>
+
+                <div class="container">
+                    <br><br><br><br><br>
+                    <p class="h3"><strong>เรื่องราวรณรงค์เด่นๆ</strong></p><br>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s1.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 67.21%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>กระทรวงศึกษาจัดวาระแห่งชาติให้ทุกส่วนร่วมแก้ปัญหาความรุนแรงในรร.
+                                        #อย่าให้มันจบที่ครูจุ๋ม</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s2.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 98.52%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>ปฏิรูปโรงเรียนในเครือสารสาสน์ทั้งหมด</strong>
+                                    <span style="font-size: small;">จากข่าวการทำร้ายร่างการ และการทารุณกรรมในรูปแบบต่างๆ
+                                        ในโรงเรียนสารสาสน์วิเทศราชพฤกษ์</span>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s3.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 83.15%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>สนับสนุนลูกสาวแห่งทะเล ขอให้ยกเลิก มติ ครม.​
+                                        หยุดเดินหน้านิคมอุตสาหกรรมจะนะ</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s4.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 83.15%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>ยกเลิกการเกณฑ์ทหาร เปลี่ยนเป็นรูปแบบสมัครใจ</strong>
+                                    <span style="font-size: small;">เกณฑ์ทหาร (Conscription) คือ
+                                        การเรียกใช้แรงงานอย่างไม่สมัครใจโดย</span>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s5.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 73.2%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>สนับสนุนมติให้ยกเลิกการใช้สารฆ่าหญ้าพาราควอต สารฆ่าแมลงคลอร์ไพริฟอส
+                                        และไกลโฟเซต</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s6.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 95.5%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>ขอ 600 บาทช่วยเด็กเล็กทุกคนในประเทศไทย
+                                        #เงินอุดหนุนเด็กเล็กแบบถ้วนหน้า</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel"><strong>แจ้งเหตุการใช้งานในทางที่ผิด</strong>
+                            </h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <p>
+                                หากคุณรู้สึกว่าเนื้อหาของแคมเปญละเมิด <u class="navactive"
+                                    style="text-decoration: underline;" data-toggle="modal"
+                                    data-target="#exampleModal">กฎระเบียบการใช้งาน</u> หรือ <u class="navactive"
+                                    style="text-decoration: underline;">กติการชุมชน</u> ของ Change.org
+                            </p>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    ฉันไม่ชอบหรือไม่เห็นด้วยกับความคิดเห็นนี้
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios2">
+                                    แคมเปญนี้สร้างความเข้าใจผิดๆ และเป็นสแปม
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้ละเมิดสิทธิของฉัน
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้ใช้ภาษาหยาบคาย สร้างความเกลียดชัง
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้ทำให้เกิดอันตรายกับเด็กและเยาวชน
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้มีเนื้อหารุนแรง ยุให้เกิดการนองเลือด การทำร้ายตัวเอง
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้หลอกลวง เล่าเรื่องเท็จ
+                                </label>
+                            </div><br>
+                            <textarea name="" id="" cols="3" rows="4" class="form-control"
+                                placeholder="กรุณาระบุเหตุผลในการแจ้งลบความคิดเห็นให้กับเจ้าหน้าที่ Change.org  หรือบอกข้อมูลอันเป็นประโยชน์ในการพิจารณาเนื้อหาความคิดเห็นนี้"></textarea>
+                            <br><button class="btn btn-lg btn-danger">ส่ง</button><br><br>
+                            <p style="font-size: small;" class="text-center">
+                                เจ้าหน้าที่ Change.org จะทำการพิจารณาการลบความคิดเห็นกรณีก่อให้เกิดความรุนแรง ขัดต่อ <u
+                                    class="navactive" style="text-decoration: underline;">ข้อตกลงการใช้บริการ</u> หรือ
+                                <u class="navactive" style="text-decoration: underline;">ระเบียบชุมชน</u>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function likes(num) {
+            a = document.getElementById('likes' + num);
+            if (a.innerHTML == `<span onclick="likes(` + num + `)" class="text-secondary"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>`) {
+                a.innerHTML = `<span onclick="likes(` + num + `)" class="" style="color: #ff0000;"><i class="fa fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;1</span>`;
+            } else {
+                a.innerHTML = `<span onclick="likes(` + num + `)" class="text-secondary"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>`;
+            }
+        }
+        function like(num) {
+            a = document.getElementById('like' + num);
+            if (a.innerHTML == `<span onclick="like(` + num + `)"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id="" style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span>`) {
+                a.innerHTML = `<span style="color: #ff0000;" onclick="like(` + num + `)"><i class="fa fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;1</span>`;
+            } else {
+                a.innerHTML = `<span onclick="like(` + num + `)"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id="" style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span>`;
+            }
+        }
+        function com() {
+            document.getElementById('com').innerHTML = `
+            <div class="row">
+                <div class="col-1 text-center">
+                    <img src="./avartar/4.jpg" alt="" class="img-fluid rounded-circle">
+                </div>
+                <div class="col-11">
+                    <p><strong>จิรัชยา เหรียญตระกูล</strong><span class="text-secondary" style="font-size: small;"> 1
+                            วันที่ผ่านมา</span></p>
+                    <p>ไม่ควรเลือกปฏิบัติ</p>
+                    <p class="text-secondary">
+                                    <span id="like3"><span onclick="like(3)"><i
+                                            class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id=""
+                                            style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1 text-center">
+                    <img src="./avartar/5.jpg" alt="" class="img-fluid rounded-circle">
+                </div>
+                <div class="col-11">
+                    <p><strong>ภานุพงษ์ ธรรมมิยะ</strong><span class="text-secondary" style="font-size: small;"> 4
+                            วันที่ผ่านมา</span></p>
+                    <p>อย่าเลือกปฏิบัติเลยคะ ขอคนรักในงานดีกว่ามั้ย<br>ไม่ใช่รับผู้หญิงแท้แต่ทำหน้าเหนื่อยในการบริการ แนะนำก็ไม่ดี (ณ สาขาในจ เลย)</p>
+                    <p class="text-secondary">
+                                    <span id="like5"><span onclick="like(5)"><i
+                                            class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id=""
+                                            style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1 text-center">
+                    <img src="./avartar/6.jpg" alt="" class="img-fluid rounded-circle">
+                </div>
+                <div class="col-11">
+                    <p><strong>Melynda Boonthep</strong><span class="text-secondary" style="font-size: small;"> 2
+                            วันที่ผ่านมา</span></p>
+                    <p>Disagree</p>
+                    <p class="text-secondary">
+                                    <span id="like4"><span onclick="like(4)"><i
+                                            class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id=""
+                                            style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                    <hr>
+                </div>
+            </div>
+            `;
+            document.getElementById('btnCom').innerHTML = '';
+        }
+    </script>
+
+    <?php
+        }
+    ?>
+
+    <?php
+        if (isset($_GET['p'])  && isset($_GET['petition']) && $_GET['petition'] == 8){
+    ?>
+    <div class="row" style="background-color: #fff9df; padding: 10px; border-bottom: 1px solid #ffe9ab;">
+        <div class="container">
+            Change.org ขอเป็นพื้นที่ให้ทุกคนส่งเสียงกันได้ดังๆ เพื่อช่วยให้สังคมฝ่าฟันสถานการณ์ Covid-19 ไปได้ด้วยกัน
+            โปรดติดตามข้อมูลเพื่อดูแลตัวคุณเองและคนรอบข้างได้ที่<a href="http://ddc.moph.go.th/viralpneumonia/intro.php"
+                class="indexhead">กรมควบคุมโรค</a> หรือโทรสายด่วน 1422
+        </div>
+    </div>
+    <br>
+    <div class="container">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <a class="nav-link active tabactive" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                    aria-controls="home" aria-selected="true">รายละเอียดเกี่ยวกับแคมเปญ</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link tabactive" id="profile-tab" data-toggle="tab" href="#comment" role="tab"
+                    aria-controls="profile" aria-selected="false">ความคิดเห็น</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link tabactive" id="contact-tab" data-toggle="tab" href="#update" role="tab"
+                    aria-controls="contact" aria-selected="false">อัพเดท</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                <br><br>
+                <p class="h2 text-center">
+                    <strong>คณะเศรษฐศาสตร์ จุฬาฯ: คัดค้านการรื้อถอนภาพคุณสมเด็จ วิรุฬหผล วีรชน 14 ตุลาคม 2516</strong>
+                </p>
+                <br><br>
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <p><img src="./petition/s9.jpg" alt="" width="800" height="450" class="img-fluid"></p>
+                        <p class="text-secondary" style="font-size: 14px;"><img src="./avartar/net.jpg" alt=""
+                                class="img-fluid mb-0 rounded-circle" width="25"
+                                height="2">&nbsp;&nbsp;<strong><u>Netiwit Chotiphatphaisal</u>
+                                ได้สร้างแคมเปญรณรงค์นี้ร้องเรียน <u>รศ.ดร.สิทธิเดช พงศ์กิจวรสิน คณบดีคณะเศรษฐศาสตร์
+                                    จุฬาลงกรณ์มหาวิทยาลัย</u></strong>
+                        </p>
+                        <p style="font-size: 22px;">
+                            เนื่องด้วยในวันที่ 4 สิงหาคม 2563 ภาพถ่ายของคุณสมเด็จ วิรุฬหผล นิสิตคณะเศรษฐศาสตร์
+                            จุฬาลงกรณ์มหาวิทยาลัยและป้ายอนุสรณ์อันมีข้อความว่า
+                        </p>
+                        <p style="font-size: 22px;">
+                            <strong>
+                                “นายสมเด็จ วิรุฬหผล นิสิตปีที่1 คณะเศรษฐศาสตร์ <br><br>
+
+                                ได้สละชีวิตในการเรียกร้องรัฐธรรมนูญ เมื่อวันที่ 14 ตุลาคม 2516 <br><br>
+
+                                ขอให้อนุชนรุ่นหลังจดจำและพิทักษ์รัฐธรรมนูญและประชาธิปไตยด้วยชีวิต <br><br>
+
+                                เยี่ยงวีรชนที่ได้สละชีวิตของตนมาแล้ว” <br><br>
+                            </strong>
+                        </p>
+                        <p style="font-size: 22px;">
+                            ได้ถูกปลดออกจากห้องที่ทำการสโมสรนิสิตเศรษฐศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย หลังจากที่ตั้งอยู่ ณ
+                            ที่แห่งนั้นมาเป็นเวลากว่า 40 ปี
+                        </p>
+                        <p style="font-size: 22px;">
+                            เมื่อสอบถามพี่ชายของคุณสมเด็จ วิรุฬหผลจึงทราบความว่า รศ.ดร. สิทธิเดช พงศ์กิจวรสิน
+                            คณบดีคณะเศรษฐศาสตร์ จุฬาลงกรณ์มหาวิทยาลัยคนปัจจุบัน เป็นต้นคิดส่งภาพคุณสมเด็จ
+                            วิรุฬหผลคืนแก่ครอบครัว และจะนำนามไปตั้งเป็นชื่อห้องประชุม หรือรางวัล แทนในภายหลัง
+                        </p>
+                        <p style="font-size: 22px;">
+                            การตัดสินใจนี้กระทำไปโดยลืมพิจารณาว่า
+                        </p>
+                        <p style="font-size: 22px;">
+                            1) คุณสมเด็จ วิรุฬหผล เป็นวีรชนนิสิตใน “เหตุการณ์ 14 ตุลาคม 2516”
+                            ที่นิสิตนักศึกษาและประชาชนสามารถโค่นล้มอำนาจเผด็จการของถนอม-ประภาส-ณรงค์ ได้สำเร็จ
+                        <p style="font-size: 22px;">
+                            2) คุณสมเด็จ วิรุฬหผล ซึ่งขณะนั้นเป็นเพียงนิสิตเศรษฐศาสตร์ ชั้นปีที่ 1
+                            พลีชีวิตเพื่อประชาธิปไตยในเหตุการณ์นี้ โดย “ถูกยิงทางด้านหลัง ทะลุอกและขาทั้ง 2 ข้าง
+                            จากทหาร-ตำรวจที่อยู่ในกองบัญชาการตำรวจนครบาลผ่านฟ้า
+                            ขณะที่นายสมเด็จกำลังมุ่งหน้าจะไปธรรมศาสตร์ ในเวลาประมาณ 18.00 น. เมื่อวันที่ 14 ตุลาคม 2516”
+                        </p>
+                        <p style="font-size: 22px;">
+                            การที่คณะเศรษฐศาสตร์ ตั้งภาพถ่ายและป้ายอนุสรณ์แก่คุณสมเด็จ
+                            วิรุฬหผลที่ห้องสโมสรนิสิตเป็นการแสดงให้เห็นถึงวิสัยทัศน์และปณิธานที่กว้างไกลของคณะเศรษฐศาสตร์ซี่งหมายให้นิสิตรุ่นหลังเจริญรอยตามรุ่นพี่ที่มีจิตเห็นแก่ผลประโยชน์ของชาติและประชาชนเป็นที่ตั้ง
+                        </p>
+                        <p style="font-size: 22px;">
+                            การตัดสินใจปลดภาพถ่ายและป้ายอนุสรณ์จึงเป็นการกระทำอันไม่คำนึงถึง
+                        </p>
+                        <p style="font-size: 22px;">
+                            1) ปณิธานของคณะเศรษฐศาสตร์ที่หมายแสดงแบบอย่างแห่งการเสียสละอันน่าจดจำให้แก่อนุชน
+                            2) จิตวิญญาณประชาธิปไตยของวันที่ 14 ตุลาคม 2516
+                            3) มิติทางประวัติศาสตร์ของภาพถ่ายและป้ายอนุสรณ์นี้ที่เกิดขึ้นตั้งแต่แรกสถาปนาคณะเศรษฐศาสตร์
+                            จุฬาลงกรณ์มหาวิทยาลัย
+                        </p>
+                        <p style="font-size: 22px;">
+                            ด้วยเหตุผลที่กล่าวมา การปลดภาพถ่ายและป้ายอนุสรณ์คุณสมเด็จ วิรุฬหผลจึงเป็นการไม่สมควร
+                            การนำนามของคุณสมเด็จมาตั้งเป็นชื่อประชุมหรือชื่อรางวัลไม่อาจทดแทนการเชิดชูเกียรติให้ทั้งบุคคลภายในและภายนอกคณะเศรษฐศาสตร์เห็นประจักษ์ดังที่เคยปรากฏมา
+                        </p>
+                        <p style="font-size: 22px;">
+                            ในฐานะนิสิตจุฬาลงกรณ์มหาวิทยาลัย เมื่อกระผมสัญจรผ่านคณะเศรษฐศาสตร์
+                            จุฬาลงกรณ์มหาวิทยาลัยครั้งใด กระผมก็จะก้มศีรษะคารวะคุณสมเด็จ วิรุฬหผล
+                            นิสิตจุฬาลงกรณ์มหาวิทยาลัยรุ่นพี่ผู้พลีชีพเพื่อประชาธิปไตยทุกครั้ง ด้วยเหตุนี้
+                            กระผมจึงขอร่วมกับเพื่อนนิสิตปัจจุบัน ศิษย์เก่า คณาจารย์ และประชาชนผู้ศรัทธาในประชาธิปไตย
+                            คัดค้านการรื้อถอนภาพถ่ายและป้ายอนุสรณ์คุณสมเด็จ วิรุฬหผล ขอให้คณบดีคณะเศรษฐศาสตร์
+                            จุฬาลงกรณ์มหาวิทยาลัยและผู้มีส่วนเกี่ยวข้องทั้งปวงโปรดพิจารณาเรื่องนี้อีกครั้งโดยนำเอาภาพถ่ายและป้ายอนุสรณ์กลับคืนแหล่งเดิม
+                            เพื่อเป็นเกียรติภูมิของคณะเศรษฐศาสตร์ และจุฬาลงกรณ์มหาวิทยาลัยอันเป็นที่รักยิ่งสืบไป
+                        </p>
+                        <p style="font-size: 22px;">
+                            <br>
+                            ด้วยความเคารพอย่างสูง
+                        </p>
+                        <br>
+                        <div class=""
+                            style="background-color: #f6f4f6; padding: 15px; border: 1px solid #ccc; border-radius: 5px;">
+                            <div class="row">
+                                <div class="col-1 m-auto text-center">
+                                    <i class="fas fa-pen-fancy fa-lg"></i>
+                                </div>
+                                <div class="col-8">
+                                    <strong>เริ่มสร้างแคมเปญรณรงค์ด้วยตัวเอง</strong><br>
+                                    เจ้าของเรื่องรณรงค์เป็นคนริเริ่มไอเดียที่หวังให้เกิดความเปลี่ยนแปลงขึ้นในสังคมของเรา
+                                    แล้วคุณอยากลองบ้างไหม?
+                                </div>
+                                <div class="col-3 text-center m-auto">
+                                    <a href="?p=create">
+                                        <div class="btn"
+                                            style="border: 2px solid #ccc; border-radius: 5px; background-color: #ffffff;">
+                                            <strong>เริ่มเรื่องรณรงค์</strong></div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <br><br>
+                        <p class="h3"><strong>อัพเดต</strong></p><br>
+                        <div class="d-flex"
+                            style="background-color: #f6f4f6; padding: 8px; border: 1px solid #ccc; border-radius: 5px; font-size: small;">
+                            <div class="">
+                                ผู้ร่วมสนับสนุน 750 คน
+                            </div>
+                            <div class="ml-auto">
+                                3 เดือนที่ผ่านมา
+                            </div>
+                        </div>
+                        <br>
+                        <div class="d-flex"
+                            style="background-color: #f6f4f6; padding: 8px; border: 1px solid #ccc; border-radius: 5px; font-size: small;">
+                            <div class="">
+                                ผู้สร้าง Netiwit Chotiphatphaisal
+                            </div>
+                            <div class="ml-auto">
+                                3 เดือนที่ผ่านมา
+                            </div>
+                        </div>
+                        <br><br>
+                        <p class="h3"><strong>สาเหตุที่ร่วมลงชื่อ</strong></p><br>
+                        <div class="row">
+                            <div class="col-1 text-center">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="col-11">
+                                <p><strong>ปภัสสร ชุ่มมาตร์</strong><span class="text-secondary"
+                                        style="font-size: small;"> 1 เดือนผ่านมา</span></p>
+                                <p>เราควรเชิดชูวีรชนที่ต่อสู้เพื่อประชาธิปไตยใช่กราบไหว้พวกบ้าหี</p>
+                                <p class="text-secondary">
+                                    <span id="like1"><span onclick="like(1)"><i
+                                                class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span
+                                            id="" style="font-size: small;" data-toggle="modal"
+                                            data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                                <hr>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-1 text-center">
+                                <img src="./avartar/2.jpg" alt="" class="img-fluid rounded-circle">
+                            </div>
+                            <div class="col-11">
+                                <p><strong>สุรพิณ ฤกษ์ศิริวรรณ์</strong><span class="text-secondary"
+                                        style="font-size: small;">
+                                        2
+                                        เดือนผ่านมา</span></p>
+                                <p>ภาพและคำจารึก ที่ติดอยู่ที่สโมสรจะคอยย้ำเตือนอนุชนรุ่นหลังมากกว่า
+                                </p>
+                                <p class="text-secondary">
+                                    <span id="like2"><span onclick="like(2)"><i
+                                                class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span
+                                            id="" style="font-size: small;" data-toggle="modal"
+                                            data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                                <hr>
+                            </div>
+                        </div>
+                        <div id="btnCom">
+                            <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin: 8px;;"
+                                onclick="com()">
+                                <span style="font-size: small;"><strong>อ่านความคิดเห็นทั้งหมด</strong></span>
+                            </div>
+                        </div>
+
+                        <div id="com"></div>
+
+
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><span style="color: red;"><i class="fas fa-flag fa-lg"></i></span> <strong
+                                class="h3">ชัยชนะ</strong></p>
+                        <p class="text-secondary">การรณรงค์สำเร็จตามเป้าหมาย โดยมีผู้สนับสนุนจำนวน1,269คน</p>
+                        <div style="border: 1px #ccc solid; border-radius: 5px; padding: 10px;">
+                            <img src="./petition/s9.jpg" width="55" height="35" alt=""> <span style="font-size: small;"
+                                class="text-secondary">รศ​.​ดร​.​สิทธิเดช พงศ์กิจวรสิน… </span>
+                        </div>
+                        <br>
+                        <button class="btn btn-block text-light" style="background-color: #37639e; padding: 10px;"><i
+                                class="fab fa-facebook-square"></i> แชร์แคมเปญ</button>
+                        <br>
+                        <p><span style="color: #37639e;"><i class="fab fa-facebook-square"></i></span> ส่งข้อความทาง
+                            Facebook</p>
+                        <p><span style=""><i class="far fa-envelope"></i></span> ส่งอีเมล์ให้เพื่อน</p>
+                        <p><span class="text-info"><i class="fab fa-twitter"></i></span> แชร์ผ่านทวิตเตอร์</p>
+                        <p><span style=""><i class="fas fa-link"></i></span> คัดลอกลิ้งค์</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="tab-pane fade" id="comment" role="tabpanel" aria-labelledby="comment-tab">
+                <div class="container">
+                    <br><br>
+                    <p class="h3"><strong>สาเหตุที่ร่วมลงชื่อ</strong></p>
+                    <p>อ่านความคิดเห็นของคนอื่นๆ ที่ลงชื่อสนับสนุนแคมเปญ
+                        (ความคิดเห็นเหล่านี้เป็นกำลังสำคัญให้เจ้าของแคมเปญเดินหน้ารณรงค์เพื่อให้เกิดความเปลี่ยนแปลงต่อไป)
+                    </p>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>Chumphol Mahattanakul</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 4 ชั่วโมงที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>ผมเป็นเพื่อนร่วมรุ่นกับคุณสมเด็จ</p>
+                        <p class="" id="likes1"><span onclick="likes(1)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>ปภัสสร ชุ่มมาตร์</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 8 ชั่วโมงที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>เราควรเชิดชูวีรชนที่ต่อสู้เพื่อประชาธิปไตยใช่กราบไหว้พวกบ้าหี</p>
+                        <p class="" id="likes2"><span onclick="likes(2)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>อิสรีย์ แสงทอง</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 1 วันที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>ไม่ควรมีใครถูกลืมจากประวัติศาสตร์​</p>
+                        <p class="" id="likes3"><span onclick="likes(3)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/him.png" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>Tanachot Assawarotjanamitre</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 2 วันที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>History may well rest where the public can see.</p>
+                        <p class="" id="likes4"><span onclick="likes(4)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+                    <br>
+                    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px;">
+                        <div class="row">
+                            <div class="col-1 text-center m-auto">
+                                <img src="./avartar/3.jpg" alt="" class="img-fluid rounded-circle" width="45"
+                                    height="45">
+                            </div>
+                            <div class="col-11 mb-4">
+                                <br><strong>songwut sengcharoen</strong><br>
+                                <span class="text-secondary" style="font-size: small;"> 2 วันที่ผ่านมา</span><br>
+                            </div>
+                        </div>
+                        <p>รหัส 2861141 ครับ ขอคัดค้านการรื้อถอนครับ</p>
+                        <p class="" id="likes5"><span onclick="likes(5)" class="text-secondary"><i
+                                    class="far fa-heart"></i>&nbsp;&nbsp;0</span></p>
+                        <p class="text-right navactive" style="font-size: small; text-decoration: underline;"
+                            data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="tab-pane fade" id="update" role="tabpanel" aria-labelledby="update-tab">
+                <div class="container">
+                    <br><br>
+                    <p class="h3"><strong>อัพเดทล่าสุด</strong></p><br>
+                    <div class="text-center m-auto" style="border: 1px solid #ccc; border-radius: 5px; padding: 50px;">
+                        ยังไม่มีอัพเดท
+                    </div>
+                </div>
+
+                <div class="container">
+                    <br><br><br><br><br>
+                    <p class="h3"><strong>เรื่องราวรณรงค์เด่นๆ</strong></p><br>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s1.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 67.21%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>กระทรวงศึกษาจัดวาระแห่งชาติให้ทุกส่วนร่วมแก้ปัญหาความรุนแรงในรร.
+                                        #อย่าให้มันจบที่ครูจุ๋ม</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s2.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 98.52%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>ปฏิรูปโรงเรียนในเครือสารสาสน์ทั้งหมด</strong>
+                                    <span style="font-size: small;">จากข่าวการทำร้ายร่างการ และการทารุณกรรมในรูปแบบต่างๆ
+                                        ในโรงเรียนสารสาสน์วิเทศราชพฤกษ์</span>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s3.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 83.15%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>สนับสนุนลูกสาวแห่งทะเล ขอให้ยกเลิก มติ ครม.​
+                                        หยุดเดินหน้านิคมอุตสาหกรรมจะนะ</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s4.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 83.15%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>ยกเลิกการเกณฑ์ทหาร เปลี่ยนเป็นรูปแบบสมัครใจ</strong>
+                                    <span style="font-size: small;">เกณฑ์ทหาร (Conscription) คือ
+                                        การเรียกใช้แรงงานอย่างไม่สมัครใจโดย</span>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s5.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 73.2%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>สนับสนุนมติให้ยกเลิกการใช้สารฆ่าหญ้าพาราควอต สารฆ่าแมลงคลอร์ไพริฟอส
+                                        และไกลโฟเซต</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                            <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                                <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                                <img src="./petition/s6.jpg" alt="" class="img-fluid">
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                        style="width: 95.5%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <p style="margin: 15px;" class="h5">
+                                    <strong>ขอ 600 บาทช่วยเด็กเล็กทุกคนในประเทศไทย
+                                        #เงินอุดหนุนเด็กเล็กแบบถ้วนหน้า</strong>
+                                </p>
+                                <div class="text-center"
+                                    style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                                    <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel"><strong>แจ้งเหตุการใช้งานในทางที่ผิด</strong>
+                            </h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <p>
+                                หากคุณรู้สึกว่าเนื้อหาของแคมเปญละเมิด <u class="navactive"
+                                    style="text-decoration: underline;" data-toggle="modal"
+                                    data-target="#exampleModal">กฎระเบียบการใช้งาน</u> หรือ <u class="navactive"
+                                    style="text-decoration: underline;">กติการชุมชน</u> ของ Change.org
+                            </p>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    ฉันไม่ชอบหรือไม่เห็นด้วยกับความคิดเห็นนี้
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios2">
+                                    แคมเปญนี้สร้างความเข้าใจผิดๆ และเป็นสแปม
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้ละเมิดสิทธิของฉัน
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้ใช้ภาษาหยาบคาย สร้างความเกลียดชัง
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้ทำให้เกิดอันตรายกับเด็กและเยาวชน
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้มีเนื้อหารุนแรง ยุให้เกิดการนองเลือด การทำร้ายตัวเอง
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" id="exampleRadios1" name="ex">
+                                <label class="form-check-label" for="exampleRadios1">
+                                    แคมเปญนี้หลอกลวง เล่าเรื่องเท็จ
+                                </label>
+                            </div><br>
+                            <textarea name="" id="" cols="3" rows="4" class="form-control"
+                                placeholder="กรุณาระบุเหตุผลในการแจ้งลบความคิดเห็นให้กับเจ้าหน้าที่ Change.org  หรือบอกข้อมูลอันเป็นประโยชน์ในการพิจารณาเนื้อหาความคิดเห็นนี้"></textarea>
+                            <br><button class="btn btn-lg btn-danger">ส่ง</button><br><br>
+                            <p style="font-size: small;" class="text-center">
+                                เจ้าหน้าที่ Change.org จะทำการพิจารณาการลบความคิดเห็นกรณีก่อให้เกิดความรุนแรง ขัดต่อ <u
+                                    class="navactive" style="text-decoration: underline;">ข้อตกลงการใช้บริการ</u> หรือ
+                                <u class="navactive" style="text-decoration: underline;">ระเบียบชุมชน</u>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function likes(num) {
+            a = document.getElementById('likes' + num);
+            if (a.innerHTML == `<span onclick="likes(` + num + `)" class="text-secondary"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>`) {
+                a.innerHTML = `<span onclick="likes(` + num + `)" class="" style="color: #ff0000;"><i class="fa fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;1</span>`;
+            } else {
+                a.innerHTML = `<span onclick="likes(` + num + `)" class="text-secondary"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>`;
+            }
+        }
+        function like(num) {
+            a = document.getElementById('like' + num);
+            if (a.innerHTML == `<span onclick="like(` + num + `)"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id="" style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span>`) {
+                a.innerHTML = `<span style="color: #ff0000;" onclick="like(` + num + `)"><i class="fa fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;1</span>`;
+            } else {
+                a.innerHTML = `<span onclick="like(` + num + `)"><i class="far fa-heart" aria-hidden="true"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id="" style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span>`;
+            }
+        }
+        function com() {
+            document.getElementById('com').innerHTML = `
+            <div class="row">
+                <div class="col-1 text-center">
+                    <img src="./avartar/4.jpg" alt="" class="img-fluid rounded-circle">
+                </div>
+                <div class="col-11">
+                    <p><strong>Tanachot Assawarotjanamitre</strong><span class="text-secondary" style="font-size: small;"> 1
+                            วันที่ผ่านมา</span></p>
+                    <p>History may well rest where the public can see.</p>
+                    <p class="text-secondary">
+                                    <span id="like3"><span onclick="like(3)"><i
+                                            class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id=""
+                                            style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1 text-center">
+                    <img src="./avartar/5.jpg" alt="" class="img-fluid rounded-circle">
+                </div>
+                <div class="col-11">
+                    <p><strong>ปรีชา คุณะกฤดาธิการ</strong><span class="text-secondary" style="font-size: small;"> 4
+                            วันที่ผ่านมา</span></p>
+                    <p>คณบดีกำลังลบประวัติศาสตร์ ทั้งๆที่ตอนเกิดเหตุการณ์ยังไม่เกิด น่าสมเพชมาก</p>
+                    <p class="text-secondary">
+                                    <span id="like5"><span onclick="like(5)"><i
+                                            class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id=""
+                                            style="font-size: small;" data-toggle="modal" data-target="#exampleModal">แจ้งการใช้งานในทางที่ผิด</span></span>
+                                </p>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1 text-center">
+                    <img src="./avartar/6.jpg" alt="" class="img-fluid rounded-circle">
+                </div>
+                <div class="col-11">
+                    <p><strong>โปษัณ โพธิสาวัง</strong><span class="text-secondary" style="font-size: small;"> 2
+                            วันที่ผ่านมา</span></p>
+                    <p>รัก ประชาธิปไตย</p>
                     <p class="text-secondary">
                                     <span id="like4"><span onclick="like(4)"><i
                                             class="far fa-heart"></i>&nbsp;&nbsp;0</span>&nbsp;&nbsp;&nbsp;<span id=""
@@ -6560,7 +7818,7 @@
                         aria-controls="contact" aria-selected="false">ล่าสุด</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link tabactive" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
+                    <a class="nav-link tabactive" id="contact-tab" data-toggle="tab" href="#contact2" role="tab"
                         aria-controls="contact2" aria-selected="false">ความสำเร็จ</a>
                 </li>
             </ul>
@@ -6568,851 +7826,1049 @@
     </div>
     <div class="container">
         <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
-            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
-            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
-            <div class="tab-pane fade" id="contact2" role="tabpanel" aria-labelledby="contact-tab">...</div>
-        </div>
-    </div>
+            <div class="tab-pane fade show active " id="home" role="tabpanel" aria-labelledby="home-tab">
 
-    <?php
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/1.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>หยุดโครงการสร้างเขื่อนในพื้นที่ป่ามรดกโลก
+                                        ดงพญาเย็น-เขาใหญ่</strong></h5>
+                                <p class="card-text">หยุดโครงการสร้างเขื่อนในพื้นที่ป่ามรดกโลก ดงพญาเย็น-เขาใหญ่...<a
+                                        href="?p=view&petition=1" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 92%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 2,320 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่2,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s1.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    <strong>กระทรวงศึกษาจัดวาระแห่งชาติให้ทุกส่วนร่วมแก้ปัญหาความรุนแรงในรร.
+                                        #อย่าให้มันจบที่ครูจุ๋ม</strong></h5>
+                                <p class="card-text">ผมก็เหมือนอีกหลายๆ คนที่รู้สึกไม่สบายใจ...<a
+                                        href="?p=view&petition=2" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 69%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 5,216 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่7,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s2.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>ปฏิรูปโรงเรียนในเครือสารสาสน์ทั้งหมด</strong></h5>
+                                <p class="card-text">จากข่าวการทำร้ายร่างการ และการทารุณกรรมเด็กในรูปแบบต่างๆ
+                                    ในโรงเรียนสารสาสน์วิเทศราชพฤกษ์ ดังภาพวีดีโอที่ถูกเผยแพร่ออกมา ทำให้ผู้ปกครอง...<a
+                                        href="?p=view&petition=3" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 67%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 5,064 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่7,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s3.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>สนับสนุนลูกสาวแห่งทะเล ขอให้ยกเลิก มติ ครม.​
+                                        หยุดเดินหน้านิคมอุตสาหกรรมจะนะ</strong></h5>
+                                <p class="card-text">@จดหมายน้อยฉบับที่ 2จากลูกสาวแห่งทะ...<a href="?p=view&petition=4"
+                                        class="text-secondary" style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 83%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 8,379 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่10,000</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s4.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>ยกเลิกการเกณฑ์ทหาร เปลี่ยนเป็นรูปแบบสมัครใจ</strong></h5>
+                                <p class="card-text">เกณฑ์ทหาร (Conscription) คือ
+                                    การเรียกใช้แรงงานอย่างไม่สมัครใจโดยฝ่ายปกครอง โดยมีรา...<a href="?p=view&petition=5"
+                                        class="text-secondary" style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 78%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 39,272 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่50,000</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s6.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>ปล่อยเพื่อนเรา Free political prisoners, Free
+                                        Thailand</strong></h5>
+                                <p class="card-text">เนื่องจากได้มีการชุมนุมเพื่อเรียกร้องประชาธิปไตย ในประเทศไทย
+                                    โดยเริ่มตั้งแต่เดือนสิงหาคม 2...<a href="#" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 86%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 86 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่100</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/1.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>หยุดโครงการสร้างเขื่อนในพื้นที่ป่ามรดกโลก
+                                        ดงพญาเย็น-เขาใหญ่</strong></h5>
+                                <p class="card-text">หยุดโครงการสร้างเขื่อนในพื้นที่ป่ามรดกโลก ดงพญาเย็น-เขาใหญ่...<a
+                                        href="?p=view&petition=1" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 92%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 2,320 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่2,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s7.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>แบนช่องเนชั่น22 บิดเบือนข่าว
+                                        ชี้นำข้อมูลสร้างความเกลียดชังในสังคม ไม่เป็นกลางทางการเมือง
+                                    </strong></h5>
+                                <p class="card-text">ช่องเนชั่น 22 เป็นสื่อที่ชี้นำ ปลุกปั่น และชั...<a href="#"
+                                        class="text-secondary" style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 81%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 865 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่1,000</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s8.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>หยุด เซ็กชวล ฮาราสเมนต์ (sexual harassment)
+                                        ในโรงเรียน</strong></h5>
+                                <p class="card-text">การคุกคามทางเพศในโรงเรียนมัธยมศึกษาในเขตกรุงเทพมหานคร นั้นพบบ่อยมาก
+                                    โดยเฉพ...<a href="#" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 56%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 4,228 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่7,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s9.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>ยกเลิกความผิดผู้หญิงที่ทำแท้ง กฎหมายอาญามาตรา 301
+                                        Decriminalize abortion Now!</strong></h5>
+                                <p class="card-text">เหตุใดกฎหมายไทยต้องบังคับให้เพศหญิง ...<a href="#"
+                                        class="text-secondary" style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 74%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 37,250 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่50,00</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s6.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>ปล่อยเพื่อนเรา Free political prisoners, Free
+                                        Thailand</strong></h5>
+                                <p class="card-text">เนื่องจากได้มีการชุมนุมเพื่อเรียกร้องประชาธิปไตย ในประเทศไทย
+                                    โดยเริ่มตั้งแต่เดือนสิงหาคม 2...<a href="#" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 86%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 86 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่100</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s7.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>แบนช่องเนชั่น22 บิดเบือนข่าว
+                                        ชี้นำข้อมูลสร้างความเกลียดชังในสังคม ไม่เป็นกลางทางการเมือง
+                                    </strong></h5>
+                                <p class="card-text">ช่องเนชั่น 22 เป็นสื่อที่ชี้นำ ปลุกปั่น และชั...<a href="#"
+                                        class="text-secondary" style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 81%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 865 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่1,000</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s10.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>สื่อไทยยุติการเสนอข่าวมอมเมาเรื่องหวย</strong></h5>
+                                <p class="card-text">การนำเสนอข่าวของสื่อไทย ไม่ว่าจะเป็นหนังสือพิมพ์ ทีวี
+                                    รวมถึงสื่อออนไลน์ มีการมอมเมาประชาชนในเรื่องของหวยตลอดเวลา
+                                    ไม่ว่าจะเป็นการพูดถึงการใ...<a href="#" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 80%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 160 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่200</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/1.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>หยุดโครงการสร้างเขื่อนในพื้นที่ป่ามรดกโลก
+                                        ดงพญาเย็น-เขาใหญ่</strong></h5>
+                                <p class="card-text">หยุดโครงการสร้างเขื่อนในพื้นที่ป่ามรดกโลก
+                                    ดงพญาเย็น-เขาใหญ่...<a href="?p=view&petition=1" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 92%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 2,320 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่2,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s11.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>"หอม" "คือลือ" ไม่ใช่ sexual harassment</strong></h5>
+                                <p class="card-text">"หอม" ราชบัณฑิตยสถานคือการได้รับกลิ่น
+                                    ไม่ใช่การ sexually harassment แม้แต่น้อย
+                                    การคอมเม้นท์ (การแสดงความคิดเห็น) รูปไอดอล หรือรูปเพศ...<a href="#"
+                                        class="text-secondary" style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 13%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 13 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่100</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="tab-pane fade" id="contact2" role="tabpanel" aria-labelledby="contact-tab">
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s12.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>คัดค้านนำเข้าเศษพลาสติก</strong></h5>
+                                <p class="card-text">Update ตุลาคม 2020: ความพยายามครั้งนี้ไม่สูญเปล่า...ขอบคุณ
+                                    แล้วพบกันใหม่
+                                    ก่อนหน้านี้ จีนต้องเจอกับปัญหาการลักลอบนำเข้าสารอันตรายที่ปะป...<a
+                                        href="?p=view&petition=6" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 72%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 25,413 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่35,000</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s13.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>ลงชื่อขอให้ Cute Press & Oriental Princess
+                                        แสดงความรับผิดชอบกรณีไม่รับคนข้ามเพศเข้าทำงาน</strong></h5>
+                                <p class="card-text">Update 2 กันยา: ขอบคุณทาง SSUP และ...<a href="?p=view&petition=7"
+                                        class="text-secondary" style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 67%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 1,691 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่2,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-3" style="max-width: 100%; margin: 10px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="./petition/p/s14.jpg" class="card-img img-fluid" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"><strong>คณะเศรษฐศาสตร์ จุฬาฯ: คัดค้านการรื้อถอนภาพคุณสมเด็จ
+                                        วิรุฬหผล วีรชน 14 ตุลาคม 2516</strong></h5>
+                                <p class="card-text">เนื่องด้วยในวันที่ 4 สิงหาคม 2563 ภาพถ่า...<a
+                                        href="?p=view&petition=8" class="text-secondary"
+                                        style="text-decoration: none;">อ่านเพิ่มเติม</a></p>
+                                <p class="card-text">
+                                    <br>
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 84%"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                </p>
+                                <p class="card-text small"><strong>มีผู้สนับสนุน 1,269 คน <span
+                                            class="text-secondary">ตั้งเป้าหมายไว้ที่1,500</span>คน</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <?php
     }
     ?>
 
-    <?php
+        <?php
     if (isset($_GET['p'])  && $_GET['p'] == 'donate'){
     ?>
-    <div class="d-none d-lg-block">
-        <div class="row" style="position: relative;">
-            <img src="./donate/protest-2.jpg" class="img-fluid" alt="">
-            <div class="" style="position: absolute; bottom: 8px; right: 200px;">
-                <img src="./donate/TH.png" alt="" class="img-fluid">
-            </div>
-            <div class="" style="position: absolute; top: 90px; left: 250px; padding: 10px;">
-                <p class="h2 text-light"><strong>ความช่วยเหลือจากคุณสำคัญสำหรับเรา</strong></p><br>
-                <p class="text-light">ทีมงานเล็กๆ ของเราทุ่มเทเพื่อให้เสียงของคนธรรมดาดังขึ้น
-                    จนนำไปสู่การเปลี่ยนแปลงต่างๆ ในสังคม<br>
-                    เงินสนับสนุนของคุณจะช่วยให้ Change.org สามารถทำงานเป็นพื้นที่ที่ฟรีสำหรับทุกคนต่อไปได้</p>
-                <div class="bg-white" style="padding: 10px; border-radius: 5px; border: 1px solid #ccc; width: 50%;">
-                    <strong>บริจาครายเดือนแบบต่อเนื่องด้วยบัตรเครดิต/เดบิต</strong><br><br>
-                    <button class="btn border border-dark" style="margin: 2px;">฿150</button>
-                    <button class="btn border border-danger text-danger" style="margin: 2px;">฿300</button>
-                    <button class="btn border border-dark" style="margin: 2px;">฿500</button>
-                    <button class="btn border border-dark" style="margin: 2px;">฿1,000</button>
-                    <br><br>
-                    <button class="btn btn-danger btn-block">ร่วมบริจาค</button>
+        <div class="d-none d-lg-block">
+            <div class="row" style="position: relative;">
+                <img src="./donate/protest-2.jpg" class="img-fluid" alt="">
+                <div class="" style="position: absolute; bottom: 8px; right: 200px;">
+                    <img src="./donate/TH.png" alt="" class="img-fluid">
+                </div>
+                <div class="" style="position: absolute; top: 90px; left: 250px; padding: 10px;">
+                    <p class="h2 text-light"><strong>ความช่วยเหลือจากคุณสำคัญสำหรับเรา</strong></p><br>
+                    <p class="text-light">ทีมงานเล็กๆ ของเราทุ่มเทเพื่อให้เสียงของคนธรรมดาดังขึ้น
+                        จนนำไปสู่การเปลี่ยนแปลงต่างๆ ในสังคม<br>
+                        เงินสนับสนุนของคุณจะช่วยให้ Change.org สามารถทำงานเป็นพื้นที่ที่ฟรีสำหรับทุกคนต่อไปได้</p>
+                    <div class="bg-white"
+                        style="padding: 10px; border-radius: 5px; border: 1px solid #ccc; width: 50%;">
+                        <strong>บริจาครายเดือนแบบต่อเนื่องด้วยบัตรเครดิต/เดบิต</strong><br><br>
+                        <button class="btn border border-dark" style="margin: 2px;">฿150</button>
+                        <button class="btn border border-danger text-danger" style="margin: 2px;">฿300</button>
+                        <button class="btn border border-dark" style="margin: 2px;">฿500</button>
+                        <button class="btn border border-dark" style="margin: 2px;">฿1,000</button>
+                        <br><br>
+                        <button class="btn btn-danger btn-block">ร่วมบริจาค</button>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="d-sm-block d-md-none d-lg-none">
-        <br>
-        <p class="container text-center">
-        <p class="text-center">ความช่วยเหลือจากคุณสำคัญสำหรับเรา <button class="btn btn-danger">บริจาค</button></p>
-        </p>
+        <div class="d-sm-block d-md-none d-lg-none">
+            <br>
+            <p class="container text-center">
+            <p class="text-center">ความช่วยเหลือจากคุณสำคัญสำหรับเรา <button class="btn btn-danger">บริจาค</button></p>
+            </p>
 
-    </div>
-    <br>
-    <br>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-6 text-right">
-                <img src="./donate/1.jpg" alt="" class="img-fluid">
+        </div>
+        <br>
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-6 text-right">
+                    <img src="./donate/1.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6 m-auto">
+                    <div class="bg-light" style="padding: 10px;">
+                        <strong>ช่วยให้เรื่องรณรงค์มีโอกาสสำเร็จมากขึ้น</strong><br>
+                        ทีมงานของเราช่วยประชาสัมพันธ์เรื่องรณรงค์ผ่านสื่อมวลชนและโซเชียลมีเดีย
+                        ช่วยวางกลยุทธ์ร่วมกับผู้สร้างเรื่องรณรงค์เพื่อระดมพลังสนับสนุนให้เรื่องนั้นๆ เป็นที่รู้จัก
+                        จนดังไปถึงหูผู้มีอำนาจตัดสินใจ และมีโอกาสประสบความสำเร็จมากขึ้น
+                        เราต้องการความช่วยเหลือจากคุณเพื่อให้ทีมงานเล็กๆ ของเราสามารถให้บริการเหล่านี้ต่อไปได้
+                    </div><br>
+                    <p class="text-secondary" style="font-size: small;"><i class="fas fa-chevron-left"></i>
+                        เรื่องรณรงค์ที่สร้างโดยคุณปรียนันท์ ล้อเสริมวัฒนา ประธานเครือข่ายผู้เสียหายทางการแพทย์
+                        ขอให้มีการจัดตั้งคณะกรรมการควบคุมราคาโรงพยาบาลเอกชน
+                        ซึ่งเป็นส่วนสำคัญที่ทำให้กระทรวงสาธารณสุขแก้ไข
+                        พ.ร.บ.สถานพยาบาล เพิ่มตัวแทนจากภาคประชาชนเข้าไปในคณะกรรมการฯ
+                        ให้มีอำนาจหน้าที่ตามกฏหมายพิจารณาเรื่องค่ารักษาแพง
+                    </p>
+                </div>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6 m-auto">
-                <div class="bg-light" style="padding: 10px;">
-                    <strong>ช่วยให้เรื่องรณรงค์มีโอกาสสำเร็จมากขึ้น</strong><br>
-                    ทีมงานของเราช่วยประชาสัมพันธ์เรื่องรณรงค์ผ่านสื่อมวลชนและโซเชียลมีเดีย
-                    ช่วยวางกลยุทธ์ร่วมกับผู้สร้างเรื่องรณรงค์เพื่อระดมพลังสนับสนุนให้เรื่องนั้นๆ เป็นที่รู้จัก
-                    จนดังไปถึงหูผู้มีอำนาจตัดสินใจ และมีโอกาสประสบความสำเร็จมากขึ้น
-                    เราต้องการความช่วยเหลือจากคุณเพื่อให้ทีมงานเล็กๆ ของเราสามารถให้บริการเหล่านี้ต่อไปได้
-                </div><br>
-                <p class="text-secondary" style="font-size: small;"><i class="fas fa-chevron-left"></i>
-                    เรื่องรณรงค์ที่สร้างโดยคุณปรียนันท์ ล้อเสริมวัฒนา ประธานเครือข่ายผู้เสียหายทางการแพทย์
-                    ขอให้มีการจัดตั้งคณะกรรมการควบคุมราคาโรงพยาบาลเอกชน ซึ่งเป็นส่วนสำคัญที่ทำให้กระทรวงสาธารณสุขแก้ไข
-                    พ.ร.บ.สถานพยาบาล เพิ่มตัวแทนจากภาคประชาชนเข้าไปในคณะกรรมการฯ
-                    ให้มีอำนาจหน้าที่ตามกฏหมายพิจารณาเรื่องค่ารักษาแพง
-                </p>
+            <br><br>
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-6 m-auto">
+                    <div class="bg-light" style="padding: 10px;">
+                        <strong>ช่วยให้คนธรรมดาส่งเสียงไปถึงผู้มีอำนาจตัดสินใจ</strong><br>
+                        การสนับสนุนของคุณจะช่วยให้คนธรรมดาๆ ที่รู้สึกว่าไม่ได้รับความเป็นธรรมในสังคม
+                        หรือรู้สึกอึดอัดไม่มีทางสู้ ได้มี Change.org
+                        ไว้เป็นพื้นที่ส่งเสียงไปถึงผู้มีอำนาจตัดสินใจในเรื่องต่างๆ โดยสามารถเรียกร้องไปที่ใครก็ได้
+                        ตั้งแต่ผู้นำชุมชน นักการเมืองระดับประเทศ ไปจนถึงบริษัทยักษ์ใหญ่ต่างๆ
+                        เราอยากเห็นสังคมที่ผู้มีอำนาจแสดงความรับผิดชอบและรับฟังความเห็นของคนธรรมดาที่ได้รับผลกระทบ
+                        จึงพัฒนาเทคโนโลยีที่ช่วยให้การรณรงค์เป็นเรื่องง่ายขึ้น ทุกคนสามารถใช้ Change.org
+                        ระดมเสียงสนับสนุน
+                        จุดประกายสร้างความเคลื่อนไหว และสื่อสารกับผู้มีอำนาจตัดสินใจเพื่อสร้างการเปลี่ยนแปลงต่างๆ
+                        ได้โดยตรง
+                    </div><br>
+                    <p class="text-secondary" style="font-size: small;"><i class="fas fa-chevron-right"></i>
+                        เจ้าของเรื่องรณรงค์และเครือข่ายเข้ายื่นรายชื่อพร้อมชี้แจงผลกระทบหากมีการบังคับใช้ พ.ร.บ.
+                        ความปลอดภัยทางชีวภาพ (GMO) ซึ่งภายหลังคณะรัฐมนตรีมีคำสั่งให้ยกเลิกร่าง พ.ร.บ.
+                        ดังกล่าวตามข้อเรียกร้อง
+                    </p>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6 m-auto">
+                    <img src="./donate/2.jpg" alt="" class="img-fluid">
+                </div>
             </div>
         </div>
         <br><br>
-        <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-6 m-auto">
-                <div class="bg-light" style="padding: 10px;">
-                    <strong>ช่วยให้คนธรรมดาส่งเสียงไปถึงผู้มีอำนาจตัดสินใจ</strong><br>
-                    การสนับสนุนของคุณจะช่วยให้คนธรรมดาๆ ที่รู้สึกว่าไม่ได้รับความเป็นธรรมในสังคม
-                    หรือรู้สึกอึดอัดไม่มีทางสู้ ได้มี Change.org
-                    ไว้เป็นพื้นที่ส่งเสียงไปถึงผู้มีอำนาจตัดสินใจในเรื่องต่างๆ โดยสามารถเรียกร้องไปที่ใครก็ได้
-                    ตั้งแต่ผู้นำชุมชน นักการเมืองระดับประเทศ ไปจนถึงบริษัทยักษ์ใหญ่ต่างๆ
-                    เราอยากเห็นสังคมที่ผู้มีอำนาจแสดงความรับผิดชอบและรับฟังความเห็นของคนธรรมดาที่ได้รับผลกระทบ
-                    จึงพัฒนาเทคโนโลยีที่ช่วยให้การรณรงค์เป็นเรื่องง่ายขึ้น ทุกคนสามารถใช้ Change.org ระดมเสียงสนับสนุน
-                    จุดประกายสร้างความเคลื่อนไหว และสื่อสารกับผู้มีอำนาจตัดสินใจเพื่อสร้างการเปลี่ยนแปลงต่างๆ ได้โดยตรง
-                </div><br>
-                <p class="text-secondary" style="font-size: small;"><i class="fas fa-chevron-right"></i>
-                    เจ้าของเรื่องรณรงค์และเครือข่ายเข้ายื่นรายชื่อพร้อมชี้แจงผลกระทบหากมีการบังคับใช้ พ.ร.บ.
-                    ความปลอดภัยทางชีวภาพ (GMO) ซึ่งภายหลังคณะรัฐมนตรีมีคำสั่งให้ยกเลิกร่าง พ.ร.บ.
-                    ดังกล่าวตามข้อเรียกร้อง
-                </p>
-            </div>
-            <div class="col-sm-12 col-md-6 col-lg-6 m-auto">
-                <img src="./donate/2.jpg" alt="" class="img-fluid">
-            </div>
-        </div>
-    </div>
-    <br><br>
-    <div class="d-none d-lg-block">
-        <div class="row" style="position: relative;">
-            <img src="./donate/TH5.png" class="img-fluid" alt="" width="100%">
-            <div class="" style="position: absolute; top: 90px; left: 250px; padding: 10px;">
-                <p class="h2 text-light"><strong>ผลจากแคมเปญรณรงค์บน Change.org</strong></p><br>
-                <p class="text-light" style="width: 50%;">
-                    ที่ผ่านมาผู้ใช้งาน Change.org ช่วยผลักดันให้วาฬบรูด้าขึ้นทะเบียนเป็นสัตว์สงวนได้สำเร็จ
-                    เปลี่ยนกฏหมายเกี่ยวกับการทารุณกรรมเด็กให้เข้มงวดขึ้น
-                    สนับสนุนให้เด็กผู้หญิงทั่วโลกมีโอกาสได้เรียนหนังสือจนถึงชั้นมัธยมศึกษา และอีกหลายต่อหลายเรื่อง
-                    การสนับสนุน Change.org จะช่วยให้เราสามารถทำงานต่อไปได้
-                    <br><br>
-                    <button class="btn btn-lg btn-outline-light" data-toggle="modal"
-                        data-target="#exampleModalScrollable"><i class="fas fa-play"></i> ดูคลิปวิดีโอ</button>
-                </p>
+        <div class="d-none d-lg-block">
+            <div class="row" style="position: relative;">
+                <img src="./donate/TH5.png" class="img-fluid" alt="" width="100%">
+                <div class="" style="position: absolute; top: 90px; left: 250px; padding: 10px;">
+                    <p class="h2 text-light"><strong>ผลจากแคมเปญรณรงค์บน Change.org</strong></p><br>
+                    <p class="text-light" style="width: 50%;">
+                        ที่ผ่านมาผู้ใช้งาน Change.org ช่วยผลักดันให้วาฬบรูด้าขึ้นทะเบียนเป็นสัตว์สงวนได้สำเร็จ
+                        เปลี่ยนกฏหมายเกี่ยวกับการทารุณกรรมเด็กให้เข้มงวดขึ้น
+                        สนับสนุนให้เด็กผู้หญิงทั่วโลกมีโอกาสได้เรียนหนังสือจนถึงชั้นมัธยมศึกษา และอีกหลายต่อหลายเรื่อง
+                        การสนับสนุน Change.org จะช่วยให้เราสามารถทำงานต่อไปได้
+                        <br><br>
+                        <button class="btn btn-lg btn-outline-light" data-toggle="modal"
+                            data-target="#exampleModalScrollable"><i class="fas fa-play"></i> ดูคลิปวิดีโอ</button>
+                    </p>
 
+                </div>
             </div>
         </div>
-    </div>
 
-    <br><br>
-    <div class="container text-center">
-        <p class="h4"><strong>สิทธิพิเศษเฉพาะชาว Changers ผู้สนับสนุน Change.org</strong></p>
-        <p class="h5 text-secondary">เรารู้ว่าคุณไม่ได้สนับสนุนเราเพราะอยากได้ของตอบแทน
-            แต่เราก็ยังอยากมอบสิทธิพิเศษเล็กๆ น้อยเหล่านี้ให้กับคุณ</p>
-    </div>
-    <br><br>
-    <div class="container text-center ">
-        <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-12">
-                <img src="./donate/section_three_icon_one.png" class="img-fluid" alt="" width="100"
-                    height="100"><br><br>
-                <p class="h5"><strong>รายงานต่างๆ ให้คุณชื่นใจว่าการสนับสนุนของคุณช่วยให้เกิดผลอะไรบ้างในสังคม</strong>
-                </p>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-12">
-                <img src="./donate/section_three_icon_two.png" class="img-fluid" alt="" width="100"
-                    height="100"><br><br>
-                <p class="h5"><strong>สัมผัสเบื้องหลังการณรงค์ที่เข้มข้นในเรื่องต่างๆ</strong></p>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-12">
-                <img src="./donate/section_three_icon_three.png" class="img-fluid" alt="" width="100"
-                    height="100"><br><br>
-                <p class="h5"><strong>เราจะคอยฟังเสียงจากคุณว่ามีอะไรอีกบ้างที่เราทำได้เพื่อตอบแทนคุณ</strong></p>
-            </div>
+        <br><br>
+        <div class="container text-center">
+            <p class="h4"><strong>สิทธิพิเศษเฉพาะชาว Changers ผู้สนับสนุน Change.org</strong></p>
+            <p class="h5 text-secondary">เรารู้ว่าคุณไม่ได้สนับสนุนเราเพราะอยากได้ของตอบแทน
+                แต่เราก็ยังอยากมอบสิทธิพิเศษเล็กๆ น้อยเหล่านี้ให้กับคุณ</p>
         </div>
-    </div>
-    <br><br>
-    <div class="row bg-light" style="padding: 50px;">
-        <div class="container">
+        <br><br>
+        <div class="container text-center ">
             <div class="row">
-                <div class="col-sm-12 col-md-6 col-sm-6 m-auto">
-                    <p class="h4"><strong>เทคโนโลยีเพื่อสังคม</strong></p>
-                    <p>เราเชื่อว่าเทคโนโลยีมีส่วนช่วยสร้างการเปลี่ยนแปลงต่างๆ ในสังคมอย่างที่ไม่เคยมีมาก่อน
-                        แต่การพัฒนาเทคโนโลยีให้รองรับความต้องการนั้น มีค่าใช้จ่ายมากมายเหมือนที่เว็บชั้นนำทั้งหลายมี
-                        Change.org จะทำงานต่อไปได้ก็ด้วยการสนับสนุนจากคนที่ต้องการเปลี่ยนให้สังคมดีขึ้นอย่างคุณ</p>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <img src="./donate/section_three_icon_one.png" class="img-fluid" alt="" width="100"
+                        height="100"><br><br>
+                    <p class="h5"><strong>รายงานต่างๆ
+                            ให้คุณชื่นใจว่าการสนับสนุนของคุณช่วยให้เกิดผลอะไรบ้างในสังคม</strong>
+                    </p>
                 </div>
-                <div class="col-sm-12 col-md-6 col-sm-6">
-                    <img src="./donate/3.jpg" class="img-fluid" alt="">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <img src="./donate/section_three_icon_two.png" class="img-fluid" alt="" width="100"
+                        height="100"><br><br>
+                    <p class="h5"><strong>สัมผัสเบื้องหลังการณรงค์ที่เข้มข้นในเรื่องต่างๆ</strong></p>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <img src="./donate/section_three_icon_three.png" class="img-fluid" alt="" width="100"
+                        height="100"><br><br>
+                    <p class="h5"><strong>เราจะคอยฟังเสียงจากคุณว่ามีอะไรอีกบ้างที่เราทำได้เพื่อตอบแทนคุณ</strong></p>
                 </div>
             </div>
         </div>
-    </div>
-    <br><br>
-    <p class="text-center"><button class="btn border border-secondary"
-            style="font-size: small; padding: 15px;">การบริจาคให้ Change.org
-            ยังไม่สามารถนำไปลดหย่อนภาษีบุคคลประจำปีได้</button></p>
-
-    <div class="modal fade" id="exampleModalScrollable" tabindex="-1" role="dialog"
-        aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-scrollable" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/h4O81mgK85E"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+        <br><br>
+        <div class="row bg-light" style="padding: 50px;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-sm-6 m-auto">
+                        <p class="h4"><strong>เทคโนโลยีเพื่อสังคม</strong></p>
+                        <p>เราเชื่อว่าเทคโนโลยีมีส่วนช่วยสร้างการเปลี่ยนแปลงต่างๆ ในสังคมอย่างที่ไม่เคยมีมาก่อน
+                            แต่การพัฒนาเทคโนโลยีให้รองรับความต้องการนั้น มีค่าใช้จ่ายมากมายเหมือนที่เว็บชั้นนำทั้งหลายมี
+                            Change.org จะทำงานต่อไปได้ก็ด้วยการสนับสนุนจากคนที่ต้องการเปลี่ยนให้สังคมดีขึ้นอย่างคุณ</p>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-sm-6">
+                        <img src="./donate/3.jpg" class="img-fluid" alt="">
                     </div>
                 </div>
-
             </div>
         </div>
-    </div>
-    <?php
+        <br><br>
+        <p class="text-center"><button class="btn border border-secondary"
+                style="font-size: small; padding: 15px;">การบริจาคให้ Change.org
+                ยังไม่สามารถนำไปลดหย่อนภาษีบุคคลประจำปีได้</button></p>
+
+        <div class="modal fade" id="exampleModalScrollable" tabindex="-1" role="dialog"
+            aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-scrollable" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/h4O81mgK85E"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <?php
     }
     ?>
 
-    <?php
+        <?php
     if (isset($_GET['p'])  && $_GET['p'] == 'profile'){
     ?>
-    <div class="row text-center"
-        style="position: relative; background-image: url('./profile/bg.png'); background-repeat: repeat-x; height: 300px; border-bottom: 1px #ccc solid;">
-        <div style="position: absolute;top: 50%; left: 50%; transform: translate(-50%, -50%);">
-            <br><br>
-            <img src="./avartar/me.jpg" class="rounded-circle img-fluid" width="100" height="100"
-                style="border: 1px #ccc solid; "><br>
-            <p class="h4"><strong>akira fosterz</strong></p>
-            <p class="text-secondary" style="font-size: small;"><span style="color: #ff0000;"><i
-                        class="fas fa-flag"></i></span> เป็นผู้ใช้งานของ Change.org ตั้งแต่ 9 ต.ค. 2018</p>
-            <p>ขอบคุณที่เป็นผู้ใช้งานเว็บไซต์ที่แอคทีฟมา<br>
-                โดยตลอด พวกเราจะร่วมกันการสร้างความ<br>
-                เปลี่ยนแปลงให้เกิดขึ้นในสังคม</p>
+        <div class="row text-center"
+            style="position: relative; background-image: url('./profile/bg.png'); background-repeat: repeat-x; height: 300px; border-bottom: 1px #ccc solid;">
+            <div style="position: absolute;top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                <br><br>
+                <img src="./avartar/me.jpg" class="rounded-circle img-fluid" width="100" height="100"
+                    style="border: 1px #ccc solid; "><br>
+                <p class="h4"><strong>akira fosterz</strong></p>
+                <p class="text-secondary" style="font-size: small;"><span style="color: #ff0000;"><i
+                            class="fas fa-flag"></i></span> เป็นผู้ใช้งานของ Change.org ตั้งแต่ 9 ต.ค. 2018</p>
+                <p>ขอบคุณที่เป็นผู้ใช้งานเว็บไซต์ที่แอคทีฟมา<br>
+                    โดยตลอด พวกเราจะร่วมกันการสร้างความ<br>
+                    เปลี่ยนแปลงให้เกิดขึ้นในสังคม</p>
+            </div>
         </div>
-    </div>
-    <br><br>
-    <div class="container">
-        <div class="m-auto col-lg-7 col-md-7 col-sm-12">
-            <p class="h4"><span style="color: #ff0000;"><i class="far fa-user-circle"></i></span><strong>
-                    บัญชีและการตั้งค่า</strong></p>
-            <p>จัดการบัญชีส่วนบุคคล เปลี่ยนวิธีการชำระเงิน และจัดการข้อมูลอื่นๆ ที่เกี่ยวข้อง</p>
-            <br>
-            <a href="?p=account" class="navactive">
-                <div class="d-flex">
-                    ข้อมูลทั่วไป
-                    <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
-                </div>
-                <hr>
-            </a>
-            <a href="?p=password" class="navactive">
-                <div class="d-flex">
-                    เปลี่ยนรหัสผ่าน
-                    <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
-                </div>
-                <hr>
-            </a>
-            <a href="?p=mail" class="navactive">
-                <div class="d-flex">
-                    จัดการที่อยู่อีเมล์
-                    <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
-                </div>
-                <hr>
-            </a>
-            <a href="?p=donate" class="navactive">
-                <div class="d-flex">
-                    สนับสนุนการทำงานของ Change.org
-                    <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
-                </div>
-                <hr>
-            </a>
-            <a href="?p=del" class="navactive">
-                <div class="d-flex">
-                    ปิดบัญชี Change.org
-                    <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
-                </div>
-                <hr>
-            </a>
-
-            <div style="border-radius: 10px; background-color: #f6f4f6; padding: 12px;">
-                <div class="m-auto col-lg-8 col-md-8 col-sm-12">
-                    <div class="row">
-                        <div class="col-3"><img src="./profile/pri.png" class="img-fluid" alt=""></div>
-                        <div class="col-9 m-auto"><strong class="h4">ความเป็นส่วนตัวและการปกป้องข้อมูล</strong></div>
+        <br><br>
+        <div class="container">
+            <div class="m-auto col-lg-7 col-md-7 col-sm-12">
+                <p class="h4"><span style="color: #ff0000;"><i class="far fa-user-circle"></i></span><strong>
+                        บัญชีและการตั้งค่า</strong></p>
+                <p>จัดการบัญชีส่วนบุคคล เปลี่ยนวิธีการชำระเงิน และจัดการข้อมูลอื่นๆ ที่เกี่ยวข้อง</p>
+                <br>
+                <a href="?p=account" class="navactive">
+                    <div class="d-flex">
+                        ข้อมูลทั่วไป
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
                     </div>
-                    <br>
-                    <p>Change.org เคารพและปกป้องความเป็นส่วนตัวของคุณ คุณสามารถตั้งค่าอีเมลได้ตามรายละเอียดด้านล่าง</p>
-                    <a href="?p=privacy" style="text-decoration: none;"><button class="btn btn-block"
-                            style="border-radius: 5px; border: 2px #ccc solid; padding: 8px;"><strong>ตั้งค่า</strong></button></a>
+                    <hr>
+                </a>
+                <a href="?p=password" class="navactive">
+                    <div class="d-flex">
+                        เปลี่ยนรหัสผ่าน
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+                <a href="?p=mail" class="navactive">
+                    <div class="d-flex">
+                        จัดการที่อยู่อีเมล์
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+                <a href="?p=donate" class="navactive">
+                    <div class="d-flex">
+                        สนับสนุนการทำงานของ Change.org
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+                <a href="?p=del" class="navactive">
+                    <div class="d-flex">
+                        ปิดบัญชี Change.org
+                        <div class="ml-auto"><i class="fas fa-chevron-right"></i></div>
+                    </div>
+                    <hr>
+                </a>
+
+                <div style="border-radius: 10px; background-color: #f6f4f6; padding: 12px;">
+                    <div class="m-auto col-lg-8 col-md-8 col-sm-12">
+                        <div class="row">
+                            <div class="col-3"><img src="./profile/pri.png" class="img-fluid" alt=""></div>
+                            <div class="col-9 m-auto"><strong class="h4">ความเป็นส่วนตัวและการปกป้องข้อมูล</strong>
+                            </div>
+                        </div>
+                        <br>
+                        <p>Change.org เคารพและปกป้องความเป็นส่วนตัวของคุณ คุณสามารถตั้งค่าอีเมลได้ตามรายละเอียดด้านล่าง
+                        </p>
+                        <a href="?p=privacy" style="text-decoration: none;"><button class="btn btn-block"
+                                style="border-radius: 5px; border: 2px #ccc solid; padding: 8px;"><strong>ตั้งค่า</strong></button></a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <?php
+        <?php
     }
     ?>
 
-    <?php
+        <?php
     if (isset($_GET['p'])  && $_GET['p'] == 'account'){
     ?>
-    <br><br>
-    <p class="text-center h1 text-center"><strong>แก้ไขข้อมูลโปรไฟล์</strong></p><br>
-    <p class=" text-center"><img src="./avartar/me.jpg" class="rounded-circle img-fluid" alt="" height="100"
-            width="100"></p>
-    <p class="text-center"><label class="indexhead"><input type="file" value="อัปโหลดรูปภาพ" style="display: none;"
-                accept=".jpg">อัปโหลดรูปภาพ</label></p>
-    <br>
-    <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
-        <label for="name">ชื่อ</label>
-        <input type="text" id="name" class="form-control" placeholder="ชื่อ" required value="akira">
-        <label for="sname">นามสกุล</label>
-        <input type="text" id="sname" class="form-control" placeholder="นามสกุล" required value="fosterzs">
-        <label for="about">เกี่ยวกับฉัน</label>
-        <textarea name="" id="about" class="form-control" cols="30" rows="7" style="resize: none;"
-            placeholder="เกี่ยวกับฉัน"></textarea>
-        <label for="city">เมือง</label>
-        <input type="text" id="city" class="form-control" placeholder="เมือง" required value="thai"><br>
-        <select name="" class="form-control" data-selected_country="TH" data-render="true">
-            <option value="">ประเทศ</option>
-            <option value="GR">กรีซ</option>
-            <option value="GL">กรีนแลนด์</option>
-            <option value="GU">กวม</option>
-            <option value="GP">กวาเดอลูป</option>
-            <option value="KH">กัมพูชา</option>
-            <option value="GT">กัวเตมาลา</option>
-            <option value="QA">กาตาร์</option>
-            <option value="GH">กานา</option>
-            <option value="GA">กาบอง</option>
-            <option value="GY">กายอานา</option>
-            <option value="GN">กินี</option>
-            <option value="GW">กินี-บิสเซา</option>
-            <option value="CD">คองโก - กินชาซา</option>
-            <option value="CG">คองโก - บราซซาวิล</option>
-            <option value="CR">คอสตาริกา</option>
-            <option value="KM">คอโมโรส</option>
-            <option value="KZ">คาซัคสถาน</option>
-            <option value="KI">คิริบาส</option>
-            <option value="CU">คิวบา</option>
-            <option value="KG">คีร์กีซสถาน</option>
-            <option value="CW">คูราเซา</option>
-            <option value="KW">คูเวต</option>
-            <option value="GE">จอร์เจีย</option>
-            <option value="JO">จอร์แดน</option>
-            <option value="JM">จาเมกา</option>
-            <option value="DJ">จิบูตี</option>
-            <option value="CN">จีน</option>
-            <option value="TD">ชาด</option>
-            <option value="CL">ชิลี</option>
-            <option value="SM">ซานมาริโน</option>
-            <option value="WS">ซามัว</option>
-            <option value="SA">ซาอุดีอาระเบีย</option>
-            <option value="EH">ซาฮาราตะวันตก</option>
-            <option value="SX">ซินต์มาร์เทน</option>
-            <option value="ZW">ซิมบับเว</option>
-            <option value="SY">ซีเรีย</option>
-            <option value="SD">ซูดาน</option>
-            <option value="SS">ซูดานใต้</option>
-            <option value="SR">ซูรินาเม</option>
-            <option value="JP">ญี่ปุ่น</option>
-            <option value="PS">ดินแดนปาเลสไตน์</option>
-            <option value="DG">ดิเอโกการ์เซีย</option>
-            <option value="TT">ตรินิแดดและโตเบโก</option>
-            <option value="TO">ตองกา</option>
-            <option value="TL">ติมอร์-เลสเต</option>
-            <option value="TR">ตุรกี</option>
-            <option value="TN">ตูนิเซีย</option>
-            <option value="TV">ตูวาลู</option>
-            <option value="TA">ทริสตันดาคูนา</option>
-            <option value="TJ">ทาจิกิสถาน</option>
-            <option value="VA">นครวาติกัน</option>
-            <option value="NO">นอร์เวย์</option>
-            <option value="NA">นามิเบีย</option>
-            <option value="NR">นาอูรู</option>
-            <option value="NI">นิการากัว</option>
-            <option value="NZ">นิวซีแลนด์</option>
-            <option value="NC">นิวแคลิโดเนีย</option>
-            <option value="NU">นีอูเอ</option>
-            <option value="BR">บราซิล</option>
-            <option value="IO">บริติชอินเดียนโอเชียนเทร์ริทอรี</option>
-            <option value="BN">บรูไน</option>
-            <option value="BW">บอตสวานา</option>
-            <option value="BA">บอสเนียและเฮอร์เซโกวีนา</option>
-            <option value="BD">บังกลาเทศ</option>
-            <option value="BG">บัลแกเรีย</option>
-            <option value="BB">บาร์เบโดส</option>
-            <option value="BH">บาห์เรน</option>
-            <option value="BS">บาฮามาส</option>
-            <option value="BI">บุรุนดี</option>
-            <option value="BF">บูร์กินาฟาโซ</option>
-            <option value="PK">ปากีสถาน</option>
-            <option value="PA">ปานามา</option>
-            <option value="PG">ปาปัวนิวกินี</option>
-            <option value="PY">ปารากวัย</option>
-            <option value="PW">ปาเลา</option>
-            <option value="FR">ฝรั่งเศส</option>
-            <option value="FJ">ฟิจิ</option>
-            <option value="FI">ฟินแลนด์</option>
-            <option value="PH">ฟิลิปปินส์</option>
-            <option value="BT">ภูฏาน</option>
-            <option value="ZZ">ภูมิภาคที่ไม่รู้จัก</option>
-            <option value="MN">มองโกเลีย</option>
-            <option value="MS">มอนต์เซอร์รัต</option>
-            <option value="ME">มอนเตเนโกร</option>
-            <option value="MU">มอริเชียส</option>
-            <option value="MR">มอริเตเนีย</option>
-            <option value="MT">มอลตา</option>
-            <option value="MD">มอลโดวา</option>
-            <option value="MV">มัลดีฟส์</option>
-            <option value="MK">มาซิโดเนีย</option>
-            <option value="MG">มาดากัสการ์</option>
-            <option value="YT">มายอต</option>
-            <option value="MQ">มาร์ตินีก</option>
-            <option value="MW">มาลาวี</option>
-            <option value="ML">มาลี</option>
-            <option value="MY">มาเลเซีย</option>
-            <option value="GI">ยิบรอลตาร์</option>
-            <option value="UG">ยูกันดา</option>
-            <option value="UA">ยูเครน</option>
-            <option value="EZ">ยูโรโซน</option>
-            <option value="RW">รวันดา</option>
-            <option value="RU">รัสเซีย</option>
-            <option value="LU">ลักเซมเบิร์ก</option>
-            <option value="LV">ลัตเวีย</option>
-            <option value="LA">ลาว</option>
-            <option value="LI">ลิกเตนสไตน์</option>
-            <option value="LT">ลิทัวเนีย</option>
-            <option value="LY">ลิเบีย</option>
-            <option value="VU">วานูอาตู</option>
-            <option value="WF">วาลลิสและฟุตูนา</option>
-            <option value="LK">ศรีลังกา</option>
-            <option value="SJ">สฟาลบาร์และยานไมเอน</option>
-            <option value="SZ">สวาซิแลนด์</option>
-            <option value="CH">สวิตเซอร์แลนด์</option>
-            <option value="SE">สวีเดน</option>
-            <option value="UN">สหประชาชาติ</option>
-            <option value="AE">สหรัฐอาหรับเอมิเรตส์</option>
-            <option value="US">สหรัฐอเมริกา</option>
-            <option value="GB">สหราชอาณาจักร</option>
-            <option value="CF">สาธารณรัฐแอฟริกากลาง</option>
-            <option value="DO">สาธารณรัฐโดมินิกัน</option>
-            <option value="SG">สิงคโปร์</option>
-            <option value="ES">สเปน</option>
-            <option value="SK">สโลวะเกีย</option>
-            <option value="SI">สโลวีเนีย</option>
-            <option value="IC">หมู่เกาะคานารี</option>
-            <option value="CK">หมู่เกาะคุก</option>
-            <option value="MP">หมู่เกาะนอร์เทิร์นมาเรียนา</option>
-            <option value="VG">หมู่เกาะบริติชเวอร์จิน</option>
-            <option value="PN">หมู่เกาะพิตแคร์น</option>
-            <option value="FK">หมู่เกาะฟอล์กแลนด์</option>
-            <option value="MH">หมู่เกาะมาร์แชลล์</option>
-            <option value="UM">หมู่เกาะรอบนอกของสหรัฐอเมริกา</option>
-            <option value="KY">หมู่เกาะเคย์แมน</option>
-            <option value="TC">หมู่เกาะเติกส์และหมู่เกาะเคคอส</option>
-            <option value="VI">หมู่เกาะเวอร์จินของสหรัฐอเมริกา</option>
-            <option value="FO">หมู่เกาะแฟโร</option>
-            <option value="CC">หมู่เกาะโคโคส (คีลิง)</option>
-            <option value="SB">หมู่เกาะโซโลมอน</option>
-            <option value="AX">หมู่เกาะโอลันด์</option>
-            <option value="AT">ออสเตรีย</option>
-            <option value="AU">ออสเตรเลีย</option>
-            <option value="AD">อันดอร์รา</option>
-            <option value="AF">อัฟกานิสถาน</option>
-            <option value="AW">อารูบา</option>
-            <option value="AR">อาร์เจนตินา</option>
-            <option value="AM">อาร์เมเนีย</option>
-            <option value="AZ">อาเซอร์ไบจาน</option>
-            <option value="IT">อิตาลี</option>
-            <option value="IN">อินเดีย</option>
-            <option value="ID">อินโดนีเซีย</option>
-            <option value="IQ">อิรัก</option>
-            <option value="IL">อิสราเอล</option>
-            <option value="IR">อิหร่าน</option>
-            <option value="GQ">อิเควทอเรียลกินี</option>
-            <option value="EG">อียิปต์</option>
-            <option value="UZ">อุซเบกิสถาน</option>
-            <option value="UY">อุรุกวัย</option>
-            <option value="AS">อเมริกันซามัว</option>
-            <option value="HN">ฮอนดูรัส</option>
-            <option value="HU">ฮังการี</option>
-            <option value="GD">เกรเนดา</option>
-            <option value="KP">เกาหลีเหนือ</option>
-            <option value="KR">เกาหลีใต้</option>
-            <option value="CX">เกาะคริสต์มาส</option>
-            <option value="CP">เกาะคลิปเปอร์ตัน</option>
-            <option value="NF">เกาะนอร์ฟอล์ก</option>
-            <option value="BV">เกาะบูเวต</option>
-            <option value="GS">เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช</option>
-            <option value="HM">เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์</option>
-            <option value="IM">เกาะแมน</option>
-            <option value="AC">เกาะแอสเซนชัน</option>
-            <option value="GG">เกิร์นซีย์</option>
-            <option value="MO">เขตปกครองพิเศษมาเก๊าแห่งสาธารณรัฐประชาชนจีน</option>
-            <option value="HK">เขตปกครองพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน</option>
-            <option value="KE">เคนยา</option>
-            <option value="CV">เคปเวิร์ด</option>
-            <option value="JE">เจอร์ซีย์</option>
-            <option value="CZ">เช็ก</option>
-            <option value="KN">เซนต์คิตส์และเนวิส</option>
-            <option value="BL">เซนต์บาร์เธเลมี</option>
-            <option value="MF">เซนต์มาร์ติน</option>
-            <option value="LC">เซนต์ลูเซีย</option>
-            <option value="VC">เซนต์วินเซนต์และเกรนาดีนส์</option>
-            <option value="SH">เซนต์เฮเลนา</option>
-            <option value="EA">เซวตาและเมลียา</option>
-            <option value="RS">เซอร์เบีย</option>
-            <option value="ST">เซาตูเมและปรินซิปี</option>
-            <option value="SL">เซียร์ราลีโอน</option>
-            <option value="SC">เซเชลส์</option>
-            <option value="SN">เซเนกัล</option>
-            <option value="DK">เดนมาร์ก</option>
-            <option value="TM">เติร์กเมนิสถาน</option>
-            <option value="NP">เนปาล</option>
-            <option value="NL">เนเธอร์แลนด์</option>
-            <option value="BQ">เนเธอร์แลนด์แคริบเบียน</option>
-            <option value="BJ">เบนิน</option>
-            <option value="BY">เบลารุส</option>
-            <option value="BZ">เบลีซ</option>
-            <option value="BE">เบลเยียม</option>
-            <option value="BM">เบอร์มิวดา</option>
-            <option value="PE">เปรู</option>
-            <option value="PR">เปอร์โตริโก</option>
-            <option value="GF">เฟรนช์เกียนา</option>
-            <option value="TF">เฟรนช์เซาเทิร์นเทร์ริทอรีส์</option>
-            <option value="PF">เฟรนช์โปลินีเซีย</option>
-            <option value="MM">เมียนมาร์ (พม่า)</option>
-            <option value="MX">เม็กซิโก</option>
-            <option value="DE">เยอรมนี</option>
-            <option value="YE">เยเมน</option>
-            <option value="RE">เรอูนียง</option>
-            <option value="LB">เลบานอน</option>
-            <option value="LS">เลโซโท</option>
-            <option value="VN">เวียดนาม</option>
-            <option value="VE">เวเนซุเอลา</option>
-            <option value="EC">เอกวาดอร์</option>
-            <option value="ET">เอธิโอเปีย</option>
-            <option value="ER">เอริเทรีย</option>
-            <option value="SV">เอลซัลวาดอร์</option>
-            <option value="EE">เอสโตเนีย</option>
-            <option value="QO">เอาต์ไลอิงโอเชียเนีย</option>
-            <option value="HT">เฮติ</option>
-            <option value="GM">แกมเบีย</option>
-            <option value="CA">แคนาดา</option>
-            <option value="CM">แคเมอรูน</option>
-            <option value="PM">แซงปีแยร์และมีเกอลง</option>
-            <option value="ZM">แซมเบีย</option>
-            <option value="TZ">แทนซาเนีย</option>
-            <option value="AI">แองกวิลลา</option>
-            <option value="AO">แองโกลา</option>
-            <option value="AQ">แอนตาร์กติกา</option>
-            <option value="AG">แอนติกาและบาร์บูดา</option>
-            <option value="ZA">แอฟริกาใต้</option>
-            <option value="DZ">แอลจีเรีย</option>
-            <option value="AL">แอลเบเนีย</option>
-            <option value="CI">โกตดิวัวร์</option>
-            <option value="HR">โครเอเชีย</option>
-            <option value="CO">โคลอมเบีย</option>
-            <option value="XK">โคโซโว</option>
-            <option value="SO">โซมาเลีย</option>
-            <option value="DM">โดมินิกา</option>
-            <option value="TK">โตเกเลา</option>
-            <option value="TG">โตโก</option>
-            <option value="BO">โบลิเวีย</option>
-            <option value="PT">โปรตุเกส</option>
-            <option value="PL">โปแลนด์</option>
-            <option value="MZ">โมซัมบิก</option>
-            <option value="MC">โมนาโก</option>
-            <option value="MA">โมร็อกโก</option>
-            <option value="RO">โรมาเนีย</option>
-            <option value="OM">โอมาน</option>
-            <option value="CY">ไซปรัส</option>
-            <option value="TW">ไต้หวัน</option>
-            <option selected="selected" value="TH">ไทย</option>
-            <option value="NG">ไนจีเรีย</option>
-            <option value="NE">ไนเจอร์</option>
-            <option value="FM">ไมโครนีเซีย</option>
-            <option value="LR">ไลบีเรีย</option>
-            <option value="IS">ไอซ์แลนด์</option>
-            <option value="IE">ไอร์แลนด์</option>
-        </select>
-        <br>
-        <label for="twit">ทวิตเตอร์</label>
-        <div class="input-group">
-            <div class="input-group-prepend">
-                <div class="input-group-text">@</div>
-            </div>
-            <input type="text" name="twit" class="form-control" id="inlineFormInputGroupUsername"
-                placeholder="ชื่อผู้ใช้งาน">
-        </div>
-        <br>
-        <label for="key">คีย์ลัดไปยังหน้าโปรไฟล์</label>
-        <input type="text" id="key" class="form-control" placeholder="สร้างคีย์ลัดลิงค์ไปที่โปรไฟล์ส่วนตัวของคุณ"
-            required value="">
         <br><br>
-        <strong>ข้อมูลส่วนตัว</strong> (จะปรากฏเฉพาะกับคุณและทีมงาน Change.org เท่านั้น)
-        <br><br>
-        <label for="where">ที่อยู่ (ถนน)</label>
-        <input type="text" id="where" class="form-control" placeholder="ที่อยู่ (ถนน)" required value="">
-        <div class="row">
-            <div class="col-sm-12 col-lg-3">
-                <label for="lang">ภาษาที่ต้องการ</label>
-                <select class="form-control" id="lang">
-                    <option value="de-DE">Deutsch</option>
-                    <option value="en-AU">English (Australia)</option>
-                    <option value="en-CA">English (Canada)</option>
-                    <option value="en-IN">English (India)</option>
-                    <option value="en-GB">English (United Kingdom)</option>
-                    <option value="en-US">English (United States)</option>
-                    <option value="es-AR">Español (Argentina)</option>
-                    <option value="es-ES">Español (España)</option>
-                    <option value="es-419">Español (Latinoamérica)</option>
-                    <option value="fr-FR">Français</option>
-                    <option value="hi-IN">हिन्दी</option>
-                    <option value="id-ID">Bahasa Indonesia</option>
-                    <option value="it-IT">Italiano</option>
-                    <option value="ja-JP">日本語</option>
-                    <option value="pt-BR">Português (Brasil)</option>
-                    <option value="ru-RU">Русский</option>
-                    <option value="th-TH" selected>ภาษาไทย</option>
-                    <option value="tr-TR">Türkçe</option>
-                </select>
-            </div>
-        </div>
+        <p class="text-center h1 text-center"><strong>แก้ไขข้อมูลโปรไฟล์</strong></p><br>
+        <p class=" text-center"><img src="./avartar/me.jpg" class="rounded-circle img-fluid" alt="" height="100"
+                width="100"></p>
+        <p class="text-center"><label class="indexhead"><input type="file" value="อัปโหลดรูปภาพ" style="display: none;"
+                    accept=".jpg">อัปโหลดรูปภาพ</label></p>
         <br>
-        <p>หมายเลขโทรศัพท์ (ไม่บังคับ)</p>
-        <p class="text-secondary">หากคุณสนใจ กรุณาระบุหมายเลขโทรศัพท์ เพื่อให้เราสามารถติดต่อคุณเกี่ยวกับแคมเปญ
-            ประเด็นรณรงค์ โครงการสมาชิกหรือความพยายามอื่น ๆ ที่เกี่ยวกับ Change.org</p>
-        <div class="row">
-            <div class="col-sm-12 col-lg-3">
-                <input type="text" id="" class="form-control" placeholder="หมายเลขโทรศัพท์" required value="">
-            </div>
-        </div>
-        <br>
-        <p><button class="btn btn-lg btn-danger" onclick="alert('DEMO: บันทึกแล้ว')">บันทึก</button> <a
-                href="?p=profile" class="indexhead">ยกเลิก</a></p>
-    </div>
-    <?php
-    }
-    ?>
-
-    <?php
-    if (isset($_GET['p'])  && $_GET['p'] == 'password'){
-    ?>
-    <br><br>
-    <p class="text-center h4"><strong>เปลี่ยนรหัสผ่าน</strong></p>
-    <br>
-    <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
-        <p>แนะนำให้ใช้รหัสผ่านที่มีทั้งตัวเลข ตัวหนังสือ และเครื่องหมายสัญลักษณ์</p>
-        <label for="pass">รหัสผ่านปัจจุบัน</label>
-        <input type="password" id="pass" class="form-control" placeholder="" required value="">
-        <label for="pass">รหัสผ่านใหม่</label>
-        <input type="password" id="pass" class="form-control" placeholder="" required value="">
-        <label for="pass">ยืนยันรหัสผ่านใหม่</label>
-        <input type="password" id="pass" class="form-control" placeholder="" required value="">
-        <br>
-        <a href="?p=profile"><button class="btn btn-lg border border-secondary">ยกเลิก</button></a> <button
-            class="btn btn-lg btn-danger" onclick="alert('DEMO: บันทึกแล้ว')">บันทึก</button>
-    </div>
-    <?php
-    }
-    ?>
-
-    <?php
-    if (isset($_GET['p'])  && $_GET['p'] == 'mail'){
-    ?>
-    <br><br>
-    <p class="text-center h4"><strong>จัดการที่อยู่อีเมล์</strong></p>
-    <br>
-    <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
-        <p>เราอยากแนะนำให้คุณใช้อีเมล์ประจำตัวที่ใช้ส่งหาเพื่อนร่วมงาน เพื่อนสนิท หรือคนในครอบครัว
-            คุณจะได้ไม่สับสนและมีบัญชี Change.org บัญชีเดียว</p>
-        <div class="row">
-            <div class="col-7">
-                <input type="email" class="form-control" placeholder="yourname@email.com" required value="">
-            </div>
-            <div class="col">
-                <button class="btn btn-danger" onclick="alert('DEMO: เพิ่มแล้ว')">เพิ่ม</button>
-            </div>
-        </div>
-        <br><br>
-        <p><strong>อีเมล์หลัก</strong></p>
-        <br><br>
-        <div class="d-flex col-8">
-            <div class="">akira.ajeyb@gmail.com</div>
-            <div class="ml-auto"><i class="fas fa-ellipsis-v" id="dropdownMenuButton" data-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false"></i>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item navactive" href="#">ส่งยืนยัน</a>
+        <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
+            <label for="name">ชื่อ</label>
+            <input type="text" id="name" class="form-control" placeholder="ชื่อ" required value="akira">
+            <label for="sname">นามสกุล</label>
+            <input type="text" id="sname" class="form-control" placeholder="นามสกุล" required value="fosterzs">
+            <label for="about">เกี่ยวกับฉัน</label>
+            <textarea name="" id="about" class="form-control" cols="30" rows="7" style="resize: none;"
+                placeholder="เกี่ยวกับฉัน"></textarea>
+            <label for="city">เมือง</label>
+            <input type="text" id="city" class="form-control" placeholder="เมือง" required value="thai"><br>
+            <select name="" class="form-control" data-selected_country="TH" data-render="true">
+                <option value="">ประเทศ</option>
+                <option value="GR">กรีซ</option>
+                <option value="GL">กรีนแลนด์</option>
+                <option value="GU">กวม</option>
+                <option value="GP">กวาเดอลูป</option>
+                <option value="KH">กัมพูชา</option>
+                <option value="GT">กัวเตมาลา</option>
+                <option value="QA">กาตาร์</option>
+                <option value="GH">กานา</option>
+                <option value="GA">กาบอง</option>
+                <option value="GY">กายอานา</option>
+                <option value="GN">กินี</option>
+                <option value="GW">กินี-บิสเซา</option>
+                <option value="CD">คองโก - กินชาซา</option>
+                <option value="CG">คองโก - บราซซาวิล</option>
+                <option value="CR">คอสตาริกา</option>
+                <option value="KM">คอโมโรส</option>
+                <option value="KZ">คาซัคสถาน</option>
+                <option value="KI">คิริบาส</option>
+                <option value="CU">คิวบา</option>
+                <option value="KG">คีร์กีซสถาน</option>
+                <option value="CW">คูราเซา</option>
+                <option value="KW">คูเวต</option>
+                <option value="GE">จอร์เจีย</option>
+                <option value="JO">จอร์แดน</option>
+                <option value="JM">จาเมกา</option>
+                <option value="DJ">จิบูตี</option>
+                <option value="CN">จีน</option>
+                <option value="TD">ชาด</option>
+                <option value="CL">ชิลี</option>
+                <option value="SM">ซานมาริโน</option>
+                <option value="WS">ซามัว</option>
+                <option value="SA">ซาอุดีอาระเบีย</option>
+                <option value="EH">ซาฮาราตะวันตก</option>
+                <option value="SX">ซินต์มาร์เทน</option>
+                <option value="ZW">ซิมบับเว</option>
+                <option value="SY">ซีเรีย</option>
+                <option value="SD">ซูดาน</option>
+                <option value="SS">ซูดานใต้</option>
+                <option value="SR">ซูรินาเม</option>
+                <option value="JP">ญี่ปุ่น</option>
+                <option value="PS">ดินแดนปาเลสไตน์</option>
+                <option value="DG">ดิเอโกการ์เซีย</option>
+                <option value="TT">ตรินิแดดและโตเบโก</option>
+                <option value="TO">ตองกา</option>
+                <option value="TL">ติมอร์-เลสเต</option>
+                <option value="TR">ตุรกี</option>
+                <option value="TN">ตูนิเซีย</option>
+                <option value="TV">ตูวาลู</option>
+                <option value="TA">ทริสตันดาคูนา</option>
+                <option value="TJ">ทาจิกิสถาน</option>
+                <option value="VA">นครวาติกัน</option>
+                <option value="NO">นอร์เวย์</option>
+                <option value="NA">นามิเบีย</option>
+                <option value="NR">นาอูรู</option>
+                <option value="NI">นิการากัว</option>
+                <option value="NZ">นิวซีแลนด์</option>
+                <option value="NC">นิวแคลิโดเนีย</option>
+                <option value="NU">นีอูเอ</option>
+                <option value="BR">บราซิล</option>
+                <option value="IO">บริติชอินเดียนโอเชียนเทร์ริทอรี</option>
+                <option value="BN">บรูไน</option>
+                <option value="BW">บอตสวานา</option>
+                <option value="BA">บอสเนียและเฮอร์เซโกวีนา</option>
+                <option value="BD">บังกลาเทศ</option>
+                <option value="BG">บัลแกเรีย</option>
+                <option value="BB">บาร์เบโดส</option>
+                <option value="BH">บาห์เรน</option>
+                <option value="BS">บาฮามาส</option>
+                <option value="BI">บุรุนดี</option>
+                <option value="BF">บูร์กินาฟาโซ</option>
+                <option value="PK">ปากีสถาน</option>
+                <option value="PA">ปานามา</option>
+                <option value="PG">ปาปัวนิวกินี</option>
+                <option value="PY">ปารากวัย</option>
+                <option value="PW">ปาเลา</option>
+                <option value="FR">ฝรั่งเศส</option>
+                <option value="FJ">ฟิจิ</option>
+                <option value="FI">ฟินแลนด์</option>
+                <option value="PH">ฟิลิปปินส์</option>
+                <option value="BT">ภูฏาน</option>
+                <option value="ZZ">ภูมิภาคที่ไม่รู้จัก</option>
+                <option value="MN">มองโกเลีย</option>
+                <option value="MS">มอนต์เซอร์รัต</option>
+                <option value="ME">มอนเตเนโกร</option>
+                <option value="MU">มอริเชียส</option>
+                <option value="MR">มอริเตเนีย</option>
+                <option value="MT">มอลตา</option>
+                <option value="MD">มอลโดวา</option>
+                <option value="MV">มัลดีฟส์</option>
+                <option value="MK">มาซิโดเนีย</option>
+                <option value="MG">มาดากัสการ์</option>
+                <option value="YT">มายอต</option>
+                <option value="MQ">มาร์ตินีก</option>
+                <option value="MW">มาลาวี</option>
+                <option value="ML">มาลี</option>
+                <option value="MY">มาเลเซีย</option>
+                <option value="GI">ยิบรอลตาร์</option>
+                <option value="UG">ยูกันดา</option>
+                <option value="UA">ยูเครน</option>
+                <option value="EZ">ยูโรโซน</option>
+                <option value="RW">รวันดา</option>
+                <option value="RU">รัสเซีย</option>
+                <option value="LU">ลักเซมเบิร์ก</option>
+                <option value="LV">ลัตเวีย</option>
+                <option value="LA">ลาว</option>
+                <option value="LI">ลิกเตนสไตน์</option>
+                <option value="LT">ลิทัวเนีย</option>
+                <option value="LY">ลิเบีย</option>
+                <option value="VU">วานูอาตู</option>
+                <option value="WF">วาลลิสและฟุตูนา</option>
+                <option value="LK">ศรีลังกา</option>
+                <option value="SJ">สฟาลบาร์และยานไมเอน</option>
+                <option value="SZ">สวาซิแลนด์</option>
+                <option value="CH">สวิตเซอร์แลนด์</option>
+                <option value="SE">สวีเดน</option>
+                <option value="UN">สหประชาชาติ</option>
+                <option value="AE">สหรัฐอาหรับเอมิเรตส์</option>
+                <option value="US">สหรัฐอเมริกา</option>
+                <option value="GB">สหราชอาณาจักร</option>
+                <option value="CF">สาธารณรัฐแอฟริกากลาง</option>
+                <option value="DO">สาธารณรัฐโดมินิกัน</option>
+                <option value="SG">สิงคโปร์</option>
+                <option value="ES">สเปน</option>
+                <option value="SK">สโลวะเกีย</option>
+                <option value="SI">สโลวีเนีย</option>
+                <option value="IC">หมู่เกาะคานารี</option>
+                <option value="CK">หมู่เกาะคุก</option>
+                <option value="MP">หมู่เกาะนอร์เทิร์นมาเรียนา</option>
+                <option value="VG">หมู่เกาะบริติชเวอร์จิน</option>
+                <option value="PN">หมู่เกาะพิตแคร์น</option>
+                <option value="FK">หมู่เกาะฟอล์กแลนด์</option>
+                <option value="MH">หมู่เกาะมาร์แชลล์</option>
+                <option value="UM">หมู่เกาะรอบนอกของสหรัฐอเมริกา</option>
+                <option value="KY">หมู่เกาะเคย์แมน</option>
+                <option value="TC">หมู่เกาะเติกส์และหมู่เกาะเคคอส</option>
+                <option value="VI">หมู่เกาะเวอร์จินของสหรัฐอเมริกา</option>
+                <option value="FO">หมู่เกาะแฟโร</option>
+                <option value="CC">หมู่เกาะโคโคส (คีลิง)</option>
+                <option value="SB">หมู่เกาะโซโลมอน</option>
+                <option value="AX">หมู่เกาะโอลันด์</option>
+                <option value="AT">ออสเตรีย</option>
+                <option value="AU">ออสเตรเลีย</option>
+                <option value="AD">อันดอร์รา</option>
+                <option value="AF">อัฟกานิสถาน</option>
+                <option value="AW">อารูบา</option>
+                <option value="AR">อาร์เจนตินา</option>
+                <option value="AM">อาร์เมเนีย</option>
+                <option value="AZ">อาเซอร์ไบจาน</option>
+                <option value="IT">อิตาลี</option>
+                <option value="IN">อินเดีย</option>
+                <option value="ID">อินโดนีเซีย</option>
+                <option value="IQ">อิรัก</option>
+                <option value="IL">อิสราเอล</option>
+                <option value="IR">อิหร่าน</option>
+                <option value="GQ">อิเควทอเรียลกินี</option>
+                <option value="EG">อียิปต์</option>
+                <option value="UZ">อุซเบกิสถาน</option>
+                <option value="UY">อุรุกวัย</option>
+                <option value="AS">อเมริกันซามัว</option>
+                <option value="HN">ฮอนดูรัส</option>
+                <option value="HU">ฮังการี</option>
+                <option value="GD">เกรเนดา</option>
+                <option value="KP">เกาหลีเหนือ</option>
+                <option value="KR">เกาหลีใต้</option>
+                <option value="CX">เกาะคริสต์มาส</option>
+                <option value="CP">เกาะคลิปเปอร์ตัน</option>
+                <option value="NF">เกาะนอร์ฟอล์ก</option>
+                <option value="BV">เกาะบูเวต</option>
+                <option value="GS">เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช</option>
+                <option value="HM">เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์</option>
+                <option value="IM">เกาะแมน</option>
+                <option value="AC">เกาะแอสเซนชัน</option>
+                <option value="GG">เกิร์นซีย์</option>
+                <option value="MO">เขตปกครองพิเศษมาเก๊าแห่งสาธารณรัฐประชาชนจีน</option>
+                <option value="HK">เขตปกครองพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน</option>
+                <option value="KE">เคนยา</option>
+                <option value="CV">เคปเวิร์ด</option>
+                <option value="JE">เจอร์ซีย์</option>
+                <option value="CZ">เช็ก</option>
+                <option value="KN">เซนต์คิตส์และเนวิส</option>
+                <option value="BL">เซนต์บาร์เธเลมี</option>
+                <option value="MF">เซนต์มาร์ติน</option>
+                <option value="LC">เซนต์ลูเซีย</option>
+                <option value="VC">เซนต์วินเซนต์และเกรนาดีนส์</option>
+                <option value="SH">เซนต์เฮเลนา</option>
+                <option value="EA">เซวตาและเมลียา</option>
+                <option value="RS">เซอร์เบีย</option>
+                <option value="ST">เซาตูเมและปรินซิปี</option>
+                <option value="SL">เซียร์ราลีโอน</option>
+                <option value="SC">เซเชลส์</option>
+                <option value="SN">เซเนกัล</option>
+                <option value="DK">เดนมาร์ก</option>
+                <option value="TM">เติร์กเมนิสถาน</option>
+                <option value="NP">เนปาล</option>
+                <option value="NL">เนเธอร์แลนด์</option>
+                <option value="BQ">เนเธอร์แลนด์แคริบเบียน</option>
+                <option value="BJ">เบนิน</option>
+                <option value="BY">เบลารุส</option>
+                <option value="BZ">เบลีซ</option>
+                <option value="BE">เบลเยียม</option>
+                <option value="BM">เบอร์มิวดา</option>
+                <option value="PE">เปรู</option>
+                <option value="PR">เปอร์โตริโก</option>
+                <option value="GF">เฟรนช์เกียนา</option>
+                <option value="TF">เฟรนช์เซาเทิร์นเทร์ริทอรีส์</option>
+                <option value="PF">เฟรนช์โปลินีเซีย</option>
+                <option value="MM">เมียนมาร์ (พม่า)</option>
+                <option value="MX">เม็กซิโก</option>
+                <option value="DE">เยอรมนี</option>
+                <option value="YE">เยเมน</option>
+                <option value="RE">เรอูนียง</option>
+                <option value="LB">เลบานอน</option>
+                <option value="LS">เลโซโท</option>
+                <option value="VN">เวียดนาม</option>
+                <option value="VE">เวเนซุเอลา</option>
+                <option value="EC">เอกวาดอร์</option>
+                <option value="ET">เอธิโอเปีย</option>
+                <option value="ER">เอริเทรีย</option>
+                <option value="SV">เอลซัลวาดอร์</option>
+                <option value="EE">เอสโตเนีย</option>
+                <option value="QO">เอาต์ไลอิงโอเชียเนีย</option>
+                <option value="HT">เฮติ</option>
+                <option value="GM">แกมเบีย</option>
+                <option value="CA">แคนาดา</option>
+                <option value="CM">แคเมอรูน</option>
+                <option value="PM">แซงปีแยร์และมีเกอลง</option>
+                <option value="ZM">แซมเบีย</option>
+                <option value="TZ">แทนซาเนีย</option>
+                <option value="AI">แองกวิลลา</option>
+                <option value="AO">แองโกลา</option>
+                <option value="AQ">แอนตาร์กติกา</option>
+                <option value="AG">แอนติกาและบาร์บูดา</option>
+                <option value="ZA">แอฟริกาใต้</option>
+                <option value="DZ">แอลจีเรีย</option>
+                <option value="AL">แอลเบเนีย</option>
+                <option value="CI">โกตดิวัวร์</option>
+                <option value="HR">โครเอเชีย</option>
+                <option value="CO">โคลอมเบีย</option>
+                <option value="XK">โคโซโว</option>
+                <option value="SO">โซมาเลีย</option>
+                <option value="DM">โดมินิกา</option>
+                <option value="TK">โตเกเลา</option>
+                <option value="TG">โตโก</option>
+                <option value="BO">โบลิเวีย</option>
+                <option value="PT">โปรตุเกส</option>
+                <option value="PL">โปแลนด์</option>
+                <option value="MZ">โมซัมบิก</option>
+                <option value="MC">โมนาโก</option>
+                <option value="MA">โมร็อกโก</option>
+                <option value="RO">โรมาเนีย</option>
+                <option value="OM">โอมาน</option>
+                <option value="CY">ไซปรัส</option>
+                <option value="TW">ไต้หวัน</option>
+                <option selected="selected" value="TH">ไทย</option>
+                <option value="NG">ไนจีเรีย</option>
+                <option value="NE">ไนเจอร์</option>
+                <option value="FM">ไมโครนีเซีย</option>
+                <option value="LR">ไลบีเรีย</option>
+                <option value="IS">ไอซ์แลนด์</option>
+                <option value="IE">ไอร์แลนด์</option>
+            </select>
+            <br>
+            <label for="twit">ทวิตเตอร์</label>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text">@</div>
                 </div>
+                <input type="text" name="twit" class="form-control" id="inlineFormInputGroupUsername"
+                    placeholder="ชื่อผู้ใช้งาน">
             </div>
-        </div>
-    </div>
-    <?php
-    }
-    ?>
-
-    <?php
-    if (isset($_GET['p'])  && $_GET['p'] == 'del'){
-    ?>
-    <br><br><br><br>
-    <p class="text-center h4"><strong>ปิดบัญชี Change.org</strong></p>
-    <br><br>
-    <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
-        <br>
-        <p><strong>ยืนยันการปิดบัญชี?</strong></p>
-        <br>
-        <p>เมื่อคุณปิดบัญชีแล้ว คุณจะไม่สามารถเข้าสู่ระบบ เพื่อลงชื่อสนับสนุนบนแคมเปญใดใดบน Change.org หากคุณสนับสนุน
-            Change.org ด้วยการบริจาคเงินแบบรายเดือน ระบบจะยกเลิกกิจกรรมนี้อัติโนมัติ *หมายเหตุ หากต่อไป
-            คุณเข้าใช้งานเว็บและร่วมลงชื่อสนับสนุนในแคมเปญด้วยอีเมล์ของคุณ ระบบจะกู้บัญชีเดิมของคุณกลับมา</p>
-    </div>
-    <br>
-    <p class="text-center"><button class="btn btn-lg btn-danger" onclick="alert('DEMO: ปิดแล้ว')">ปิดบัญชี
-            Change.org</button></p>
-    <br><br><br><br><br><br><br><br><br>
-    <?php
-    }
-    ?>
-
-    <?php
-    if (isset($_GET['p'])  && $_GET['p'] == 'privacy'){
-    ?>
-    <div class="row text-center"
-        style="position: relative; background-image: url('./profile/bg.png'); background-repeat: repeat-x; height: 300px; border-bottom: 1px #ccc solid;">
-        <div style="position: absolute;top: 50%; left: 50%; transform: translate(-50%, -50%);">
+            <br>
+            <label for="key">คีย์ลัดไปยังหน้าโปรไฟล์</label>
+            <input type="text" id="key" class="form-control" placeholder="สร้างคีย์ลัดลิงค์ไปที่โปรไฟล์ส่วนตัวของคุณ"
+                required value="">
             <br><br>
-            <img src="./avartar/me.jpg" class="rounded-circle img-fluid" width="100" height="100"
-                style="border: 1px #ccc solid; "><br>
-            <p class="h4"><strong>akira fosterz</strong></p>
-            <p class="text-secondary" style="font-size: small;"><span style="color: #ff0000;"><i
-                        class="fas fa-flag"></i></span> เป็นผู้ใช้งานของ Change.org ตั้งแต่ 9 ต.ค. 2018</p>
-            <p>ขอบคุณที่เป็นผู้ใช้งานเว็บไซต์ที่แอคทีฟมา<br>
-                โดยตลอด พวกเราจะร่วมกันการสร้างความ<br>
-                เปลี่ยนแปลงให้เกิดขึ้นในสังคม</p>
-        </div>
-    </div>
-    <br><br>
-    <div class="container m-auto col-lg-6 col-md-6 col-sm-12">
-        <div class="row">
-            <div class="col-4 text-right">
-                <img src="./profile/pri.png" alt="" class="img-fluid">
-            </div>
-            <div class="col-8 m-auto">
-                <strong class="h4">ความเป็นส่วนตัวและการปกป้องข้อมูล</strong><br>
-                Change.org เคารพและปกป้องความเป็นส่วนตัวของคุณ คุณสามารถตั้งค่าอีเมลได้ตามรายละเอียดด้านล่าง
-            </div>
-        </div>
-        <br>
-        <hr>
-        <br>
-        <p class="h4"><strong>การตั้งค่าอีเมล์</strong></p>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                ยังไม่เสร็จสิ้นการลงชื่อในแคมเปญที่ได้ดู
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                ฉันเชิญชวนคนอื่นมาร่วมลงชื่อสนับสนุนในแคมเปญ
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                มีคนถูกใจความคิดเห็นของคุณ
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                มีคนตอบกลับความคิดเห็นของคุณ
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                ผู้สร้างของเรื่องรณรงค์ที่คุณสร้างเขียนความคิดเห็น
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                มีการอัพเดทเกี่ยวกับแคมเปญรณรงค์ที่ฉันร่วมลงชื่อ
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                Change.org มีคำแนะนำเกี่ยวกับแคมเปญรณรงค์
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                มีคนที่ได้ถูกใจอัพเดทบนเรื่องรณรงค์ที่คุณสร้าง
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                อัพเดทเกี่ยวกับแคมเปญประจำสัปดาห์
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                มีคนตอบกลับข้อความที่คุณโพสต์แสดงความคิดเห็น
-            </label>
-        </div>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                มีโอกาสมากมายให้ฉันได้สนับสนุนแคมเปญที่ฉันสนใจ
-            </label>
-        </div>
-        <br>
-        <p><strong>หรือ บอกเลิกการรับอีเมล์ทั้งหมดจาก Change.org</strong></p>
-        <br>
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
-            <label class="form-check-label" for="defaultCheck1">
-                ฉันต้องการบอกเลิกรับอีเมล์
-            </label>
-        </div>
-        <br><br>
-        <p><button class="btn btn-lg btn-danger" onclick="alert('DEMO: บันทึกแล้ว')">บันทึก</button> <a
-                href="?p=profile" class=""> <button class="btn btn-lg border border-secondary"> ยกเลิก</button></a></p>
-
-    </div>
-    <?php
-    }
-    ?>
-
-    <br><br>
-    <footer class="page-footer bg-light">
-        <br>
-        <div class="container">
+            <strong>ข้อมูลส่วนตัว</strong> (จะปรากฏเฉพาะกับคุณและทีมงาน Change.org เท่านั้น)
+            <br><br>
+            <label for="where">ที่อยู่ (ถนน)</label>
+            <input type="text" id="where" class="form-control" placeholder="ที่อยู่ (ถนน)" required value="">
             <div class="row">
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <p class="text-secondary">รู้จักเรา</p>
-                    <p><a href="#" class="navactive">เกี่ยวกับ Change.org</a></p>
-                    <p><a href="#" class="navactive">ผลการเปลี่ยนแปลง</a></p>
-                    <p><a href="#" class="navactive">ร่วมงานกับเรา</a></p>
-                    <p><a href="#" class="navactive">ทีมงาน</a></p>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <p class="text-secondary">ชุมชนบน CHANGE.ORG</p>
-                    <p><a href="#" class="navactive">บล็อก</a></p>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <p class="text-secondary">ความช่วยเหลือ</p>
-                    <p><a href="#" class="navactive">ศุนย์ช่วยเหลือ</a></p>
-                    <p><a href="#" class="navactive">คำแนะนำ</a></p>
-                    <p><a href="#" class="navactive">นโยบายสิทธิส่วนบุคคล</a></p>
-                    <p><a href="#" class="navactive">นโยบาย</a></p>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <p class="text-secondary">ติดตาม CHANGE.ORG</p>
-                    <p><a href="#" class="navactive">Twitter</a></p>
-                    <p><a href="#" class="navactive">Facebook</a></p>
-                </div>
-            </div>
-            <hr>
-            <div class="d-flex justify-content-between row">
-                <div class="col-sm-12 col-lg-9"><b>© 2020, Change.org, PBC</b> <a href="#"
-                        class="navactive">จดทะเบียนประเภท B Corporation</a><br>
-                    This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy"
-                        style="color: #ff0000; text-decoration: underline;">Privacy Policy</a> and <a
-                        href="https://policies.google.com/terms"
-                        style="color: #ff0000; text-decoration: underline;">Terms of Service</a> apply.<br><br>
-                </div>
                 <div class="col-sm-12 col-lg-3">
-                    <select class="form-control">
+                    <label for="lang">ภาษาที่ต้องการ</label>
+                    <select class="form-control" id="lang">
                         <option value="de-DE">Deutsch</option>
                         <option value="en-AU">English (Australia)</option>
                         <option value="en-CA">English (Canada)</option>
@@ -7435,8 +8891,442 @@
                 </div>
             </div>
             <br>
+            <p>หมายเลขโทรศัพท์ (ไม่บังคับ)</p>
+            <p class="text-secondary">หากคุณสนใจ กรุณาระบุหมายเลขโทรศัพท์ เพื่อให้เราสามารถติดต่อคุณเกี่ยวกับแคมเปญ
+                ประเด็นรณรงค์ โครงการสมาชิกหรือความพยายามอื่น ๆ ที่เกี่ยวกับ Change.org</p>
+            <div class="row">
+                <div class="col-sm-12 col-lg-3">
+                    <input type="text" id="" class="form-control" placeholder="หมายเลขโทรศัพท์" required value="">
+                </div>
+            </div>
+            <br>
+            <p><button class="btn btn-lg btn-danger" onclick="alert('DEMO: บันทึกแล้ว')">บันทึก</button> <a
+                    href="?p=profile" class="indexhead">ยกเลิก</a></p>
         </div>
-    </footer>
+        <?php
+    }
+    ?>
+
+        <?php
+    if (isset($_GET['p'])  && $_GET['p'] == 'password'){
+    ?>
+        <br><br>
+        <p class="text-center h4"><strong>เปลี่ยนรหัสผ่าน</strong></p>
+        <br>
+        <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
+            <p>แนะนำให้ใช้รหัสผ่านที่มีทั้งตัวเลข ตัวหนังสือ และเครื่องหมายสัญลักษณ์</p>
+            <label for="pass">รหัสผ่านปัจจุบัน</label>
+            <input type="password" id="pass" class="form-control" placeholder="" required value="">
+            <label for="pass">รหัสผ่านใหม่</label>
+            <input type="password" id="pass" class="form-control" placeholder="" required value="">
+            <label for="pass">ยืนยันรหัสผ่านใหม่</label>
+            <input type="password" id="pass" class="form-control" placeholder="" required value="">
+            <br>
+            <a href="?p=profile"><button class="btn btn-lg border border-secondary">ยกเลิก</button></a> <button
+                class="btn btn-lg btn-danger" onclick="alert('DEMO: บันทึกแล้ว')">บันทึก</button>
+        </div>
+        <?php
+    }
+    ?>
+
+        <?php
+    if (isset($_GET['p'])  && $_GET['p'] == 'mail'){
+    ?>
+        <br><br>
+        <p class="text-center h4"><strong>จัดการที่อยู่อีเมล์</strong></p>
+        <br>
+        <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
+            <p>เราอยากแนะนำให้คุณใช้อีเมล์ประจำตัวที่ใช้ส่งหาเพื่อนร่วมงาน เพื่อนสนิท หรือคนในครอบครัว
+                คุณจะได้ไม่สับสนและมีบัญชี Change.org บัญชีเดียว</p>
+            <div class="row">
+                <div class="col-7">
+                    <input type="email" class="form-control" placeholder="yourname@email.com" required value="">
+                </div>
+                <div class="col">
+                    <button class="btn btn-danger" onclick="alert('DEMO: เพิ่มแล้ว')">เพิ่ม</button>
+                </div>
+            </div>
+            <br><br>
+            <p><strong>อีเมล์หลัก</strong></p>
+            <br><br>
+            <div class="d-flex col-8">
+                <div class="">akira.ajeyb@gmail.com</div>
+                <div class="ml-auto"><i class="fas fa-ellipsis-v" id="dropdownMenuButton" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false"></i>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item navactive" href="#">ส่งยืนยัน</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <?php
+    }
+    ?>
+
+        <?php
+    if (isset($_GET['p'])  && $_GET['p'] == 'del'){
+    ?>
+        <br><br><br><br>
+        <p class="text-center h4"><strong>ปิดบัญชี Change.org</strong></p>
+        <br><br>
+        <div class="container m-auto col-lg-7 col-md-7 col-sm-12">
+            <br>
+            <p><strong>ยืนยันการปิดบัญชี?</strong></p>
+            <br>
+            <p>เมื่อคุณปิดบัญชีแล้ว คุณจะไม่สามารถเข้าสู่ระบบ เพื่อลงชื่อสนับสนุนบนแคมเปญใดใดบน Change.org
+                หากคุณสนับสนุน
+                Change.org ด้วยการบริจาคเงินแบบรายเดือน ระบบจะยกเลิกกิจกรรมนี้อัติโนมัติ *หมายเหตุ หากต่อไป
+                คุณเข้าใช้งานเว็บและร่วมลงชื่อสนับสนุนในแคมเปญด้วยอีเมล์ของคุณ ระบบจะกู้บัญชีเดิมของคุณกลับมา</p>
+        </div>
+        <br>
+        <p class="text-center"><button class="btn btn-lg btn-danger" onclick="alert('DEMO: ปิดแล้ว')">ปิดบัญชี
+                Change.org</button></p>
+        <br><br><br><br><br><br><br><br><br>
+        <?php
+    }
+    ?>
+
+        <?php
+    if (isset($_GET['p'])  && $_GET['p'] == 'privacy'){
+    ?>
+        <div class="row text-center"
+            style="position: relative; background-image: url('./profile/bg.png'); background-repeat: repeat-x; height: 300px; border-bottom: 1px #ccc solid;">
+            <div style="position: absolute;top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                <br><br>
+                <img src="./avartar/me.jpg" class="rounded-circle img-fluid" width="100" height="100"
+                    style="border: 1px #ccc solid; "><br>
+                <p class="h4"><strong>akira fosterz</strong></p>
+                <p class="text-secondary" style="font-size: small;"><span style="color: #ff0000;"><i
+                            class="fas fa-flag"></i></span> เป็นผู้ใช้งานของ Change.org ตั้งแต่ 9 ต.ค. 2018</p>
+                <p>ขอบคุณที่เป็นผู้ใช้งานเว็บไซต์ที่แอคทีฟมา<br>
+                    โดยตลอด พวกเราจะร่วมกันการสร้างความ<br>
+                    เปลี่ยนแปลงให้เกิดขึ้นในสังคม</p>
+            </div>
+        </div>
+        <br><br>
+        <div class="container m-auto col-lg-6 col-md-6 col-sm-12">
+            <div class="row">
+                <div class="col-4 text-right">
+                    <img src="./profile/pri.png" alt="" class="img-fluid">
+                </div>
+                <div class="col-8 m-auto">
+                    <strong class="h4">ความเป็นส่วนตัวและการปกป้องข้อมูล</strong><br>
+                    Change.org เคารพและปกป้องความเป็นส่วนตัวของคุณ คุณสามารถตั้งค่าอีเมลได้ตามรายละเอียดด้านล่าง
+                </div>
+            </div>
+            <br>
+            <hr>
+            <br>
+            <p class="h4"><strong>การตั้งค่าอีเมล์</strong></p>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    ยังไม่เสร็จสิ้นการลงชื่อในแคมเปญที่ได้ดู
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    ฉันเชิญชวนคนอื่นมาร่วมลงชื่อสนับสนุนในแคมเปญ
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    มีคนถูกใจความคิดเห็นของคุณ
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    มีคนตอบกลับความคิดเห็นของคุณ
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    ผู้สร้างของเรื่องรณรงค์ที่คุณสร้างเขียนความคิดเห็น
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    มีการอัพเดทเกี่ยวกับแคมเปญรณรงค์ที่ฉันร่วมลงชื่อ
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    Change.org มีคำแนะนำเกี่ยวกับแคมเปญรณรงค์
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    มีคนที่ได้ถูกใจอัพเดทบนเรื่องรณรงค์ที่คุณสร้าง
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    อัพเดทเกี่ยวกับแคมเปญประจำสัปดาห์
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    มีคนตอบกลับข้อความที่คุณโพสต์แสดงความคิดเห็น
+                </label>
+            </div>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    มีโอกาสมากมายให้ฉันได้สนับสนุนแคมเปญที่ฉันสนใจ
+                </label>
+            </div>
+            <br>
+            <p><strong>หรือ บอกเลิกการรับอีเมล์ทั้งหมดจาก Change.org</strong></p>
+            <br>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" checked>
+                <label class="form-check-label" for="defaultCheck1">
+                    ฉันต้องการบอกเลิกรับอีเมล์
+                </label>
+            </div>
+            <br><br>
+            <p><button class="btn btn-lg btn-danger" onclick="alert('DEMO: บันทึกแล้ว')">บันทึก</button> <a
+                    href="?p=profile" class=""> <button class="btn btn-lg border border-secondary"> ยกเลิก</button></a>
+            </p>
+
+        </div>
+        <?php
+    }
+    ?>
+
+        <?php
+    if (isset($_GET['p'])  && $_GET['p'] == 'search'){
+    ?>
+        <br><br><br><br><br><br>
+        <div class="container">
+            <div class="col-lg-8 col-md-8 col-sm-12 m-auto">
+                <small class="text-secondary ml-1"><strong>ค้นหา</strong></small>
+                <div class="input-group mb-3 input-group-lg">
+                    <input type="text" class="form-control" placeholder="ค้นหาเรื่องรณรงค์"
+                        aria-label="Recipient's username" aria-describedby="button-addon2">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="button" id="button-addon2"><i
+                                class="fas fa-search"></i></button>
+                    </div>
+                </div>
+            </div>
+            <br><br><br><br><br><br>
+
+            <p class="h3"><strong>เรื่องราวรณรงค์เด่นๆ</strong></p><br>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                    <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem">
+                        <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                        <img src="./petition/s1.jpg" alt="" class="img-fluid">
+                        <div class="progress">
+                            <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                style="width: 67.21%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                        <p style="margin: 15px;" class="h5">
+                            <strong>กระทรวงศึกษาจัดวาระแห่งชาติให้ทุกส่วนร่วมแก้ปัญหาความรุนแรงในรร.
+                                #อย่าให้มันจบที่ครูจุ๋ม</strong>
+                        </p>
+                        <div class="text-center"
+                            style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                            <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                    <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                        <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                        <img src="./petition/s2.jpg" alt="" class="img-fluid">
+                        <div class="progress">
+                            <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                style="width: 98.52%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                        <p style="margin: 15px;" class="h5">
+                            <strong>ปฏิรูปโรงเรียนในเครือสารสาสน์ทั้งหมด</strong>
+                            <span style="font-size: small;">จากข่าวการทำร้ายร่างการ และการทารุณกรรมในรูปแบบต่างๆ
+                                ในโรงเรียนสารสาสน์วิเทศราชพฤกษ์</span>
+                        </p>
+                        <div class="text-center"
+                            style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                            <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                    <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                        <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                        <img src="./petition/s3.jpg" alt="" class="img-fluid">
+                        <div class="progress">
+                            <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                style="width: 83.15%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                        <p style="margin: 15px;" class="h5">
+                            <strong>สนับสนุนลูกสาวแห่งทะเล ขอให้ยกเลิก มติ ครม.​
+                                หยุดเดินหน้านิคมอุตสาหกรรมจะนะ</strong>
+                        </p>
+                        <div class="text-center"
+                            style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                            <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                    <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                        <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                        <img src="./petition/s4.jpg" alt="" class="img-fluid">
+                        <div class="progress">
+                            <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                style="width: 83.15%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                        <p style="margin: 15px;" class="h5">
+                            <strong>ยกเลิกการเกณฑ์ทหาร เปลี่ยนเป็นรูปแบบสมัครใจ</strong>
+                            <span style="font-size: small;">เกณฑ์ทหาร (Conscription) คือ
+                                การเรียกใช้แรงงานอย่างไม่สมัครใจโดย</span>
+                        </p>
+                        <div class="text-center"
+                            style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                            <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                    <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                        <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                        <img src="./petition/s5.jpg" alt="" class="img-fluid">
+                        <div class="progress">
+                            <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                style="width: 73.2%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                        <p style="margin: 15px;" class="h5">
+                            <strong>สนับสนุนมติให้ยกเลิกการใช้สารฆ่าหญ้าพาราควอต สารฆ่าแมลงคลอร์ไพริฟอส
+                                และไกลโฟเซต</strong>
+                        </p>
+                        <div class="text-center"
+                            style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                            <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                    <div class="" style="border: 1px solid #ccc; border-radius: 5px; height: 28rem;">
+                        <p style="margin: 15px;"><i class="fas fa-fire-alt"></i> ยอดนิยม</p>
+                        <img src="./petition/s6.jpg" alt="" class="img-fluid">
+                        <div class="progress">
+                            <div class="progress-bar bg-danger progress-bar-animated" role="progressbar"
+                                style="width: 95.5%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                        <p style="margin: 15px;" class="h5">
+                            <strong>ขอ 600 บาทช่วยเด็กเล็กทุกคนในประเทศไทย
+                                #เงินอุดหนุนเด็กเล็กแบบถ้วนหน้า</strong>
+                        </p>
+                        <div class="text-center"
+                            style="margin: 15px; border: 1px solid #ff0000; border-radius: 5px; padding: 10px;">
+                            <a style="text-decoration: none; color: #ff0000;">ร่วมลงชื่อสนับสนุน</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <?php
+    }
+    ?>
+
+        <br><br>
+        <footer class="page-footer bg-light">
+            <br>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <p class="text-secondary">รู้จักเรา</p>
+                        <p><a href="#" class="navactive">เกี่ยวกับ Change.org</a></p>
+                        <p><a href="#" class="navactive">ผลการเปลี่ยนแปลง</a></p>
+                        <p><a href="#" class="navactive">ร่วมงานกับเรา</a></p>
+                        <p><a href="#" class="navactive">ทีมงาน</a></p>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <p class="text-secondary">ชุมชนบน CHANGE.ORG</p>
+                        <p><a href="#" class="navactive">บล็อก</a></p>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <p class="text-secondary">ความช่วยเหลือ</p>
+                        <p><a href="#" class="navactive">ศุนย์ช่วยเหลือ</a></p>
+                        <p><a href="#" class="navactive">คำแนะนำ</a></p>
+                        <p><a href="#" class="navactive">นโยบายสิทธิส่วนบุคคล</a></p>
+                        <p><a href="#" class="navactive">นโยบาย</a></p>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <p class="text-secondary">ติดตาม CHANGE.ORG</p>
+                        <p><a href="#" class="navactive">Twitter</a></p>
+                        <p><a href="#" class="navactive">Facebook</a></p>
+                    </div>
+                </div>
+                <hr>
+                <div class="d-flex justify-content-between row">
+                    <div class="col-sm-12 col-lg-9"><b>© 2020, Change.org, PBC</b> <a href="#"
+                            class="navactive">จดทะเบียนประเภท B Corporation</a><br>
+                        This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy"
+                            style="color: #ff0000; text-decoration: underline;">Privacy Policy</a> and <a
+                            href="https://policies.google.com/terms"
+                            style="color: #ff0000; text-decoration: underline;">Terms of Service</a> apply.<br><br>
+                    </div>
+                    <div class="col-sm-12 col-lg-3">
+                        <select class="form-control">
+                            <option value="de-DE">Deutsch</option>
+                            <option value="en-AU">English (Australia)</option>
+                            <option value="en-CA">English (Canada)</option>
+                            <option value="en-IN">English (India)</option>
+                            <option value="en-GB">English (United Kingdom)</option>
+                            <option value="en-US">English (United States)</option>
+                            <option value="es-AR">Español (Argentina)</option>
+                            <option value="es-ES">Español (España)</option>
+                            <option value="es-419">Español (Latinoamérica)</option>
+                            <option value="fr-FR">Français</option>
+                            <option value="hi-IN">हिन्दी</option>
+                            <option value="id-ID">Bahasa Indonesia</option>
+                            <option value="it-IT">Italiano</option>
+                            <option value="ja-JP">日本語</option>
+                            <option value="pt-BR">Português (Brasil)</option>
+                            <option value="ru-RU">Русский</option>
+                            <option value="th-TH" selected>ภาษาไทย</option>
+                            <option value="tr-TR">Türkçe</option>
+                        </select>
+                    </div>
+                </div>
+                <br>
+            </div>
+        </footer>
 
 
 </body>
