@@ -8,7 +8,7 @@
 | 62070215 | 62070204 | 62070168 |
 
 | <img src="https://raw.githubusercontent.com/docxed/change/main/pdf/img/076.jpg" width="100" height="100"> |
-| :------------: | :------------: |
+| :------------: |
 | [@62070076](https://github.com/62070076 "@62070076") |
 | Tanakit Ubon |
 | 62070076 |
